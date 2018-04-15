@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<page>
+    <title strClassViewPageTitle="badgeView span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">100th Anniversary</title>
+    <sections catagory="anniversary">
+        <section>
+            <heading strClassHeading="bold">CFUW 100th Anniversary - 2019</heading>
+            <textNode strClassText="visible">&#160;</textNode>            
+            <paragraph0>CFUW will have been in existence for 100 years in 2019. To celebrate the anniversary, a number of projects and awards are planned which are outlined below.</paragraph0>
+            <paragraph1 strParagraphDefault="visible" class="">Notable Women Award(2019)</paragraph1>
+            <paragraph2 class="">One hundred awards will be given to members of the Canadian Federation of University Women who have made outstanding contributions within CFUW and/or to the wider community; locally, nationally, or internationally in the fields of Education, Science, Technology, Engineering, Mathematics, Economics, Political Engagement, Organizational Leadership, Cultural Endeavours, or Social Innovation. The award will be given to each recipient in the form of a limited edition 100th anniversary gold pin.</paragraph2>
+            <subHeading0 strClassText="" SubHeading="bold">Recipients shall be:</subHeading0>
+            <lineItem0 strClassLineItem="lineItem">Women who are current members of CFUW</lineItem0>
+            <lineItem1 strClassLineItem="lineItem">Women who have made contributions within the aims and objectives of CFUW.</lineItem1>
+            <lineItem2 strClassLineItem="lineItem">Women who have been recognized for sustained efforts over a period of time and have made a distinct and describable difference in their communities.</lineItem2>
+            <subHeading1 strClassTextSubHeading="bold">Distribution of Awards</subHeading1>
+            <paragraph3 strClassUnderSubheading="visible">To endeavour to make the distribution of awards as equitable as possible throughout Canada, the number of awards will be proportionate to the number of members per Region. Detailed information regarding number of nominations per club is stated below.</paragraph3>
+            <subHeading2>For more information and the application form(s)</subHeading2>
+            <link0 strHref0="http://www.cfuw-saskatoon.org">100th Anniversary Notable Woman Award (2019) Nomination Application (.docx)</link0>
+        </section>
+    </sections>
+</page>
