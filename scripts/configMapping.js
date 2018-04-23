@@ -17,9 +17,9 @@ define([], function(undefined){
                 templateId:'templateBoardMembers'},          
             BOOKSALE:{control:'btnBookSale', 
                 intDataIndex:'2',
-                data:'bookSale.xml', 
+                data:'bookSale.xml?version=1.2', 
                 tagsXml:['page', 'member'], 
-                tagsXmlChildsCommon:['backgroundImage', 'link', 'h10'],
+                tagsXmlChildsCommon:['link', 'h10', 'booksaleImage'],
                 modelCid:'bookSaleId',
                 templateId:'templateBooksale'},                                         
             CONTACT_US:{control:'btnContactUs', 
@@ -85,7 +85,15 @@ define([], function(undefined){
                 tagsXmlChildsCommon:['paragraph0', 'paragraph1', 'paragraph2', 'paragraph3', 'paragraph4', 'paragraph5', 'paragraph6', 
                 'paragraph7', 'paragraph8', 'paragraph9', 'paragraph10', 'paragraph11'],
                 modelCid:'scholarshipsId',
-                templateId:'templateScholarships'}   
+                templateId:'templateScholarships'},
+            BADGE:{control:'btnBadge', 
+                intDataIndex:'12',
+                data:'badge.xml', 
+                tagsXml:['sections', 'section'], 
+                tagsXmlChildsCommon:['paragraph0', 'paragraph1', 'paragraph2', 'paragraph3', 'textNode', 'heading', 
+                'lineItem0', 'lineItem1', 'lineItem2', 'paragraph4', 'subHeading1', 'subHeading2', 'link0'],
+                modelCid:'badgeId',
+                templateId:'templateBadge'}                
         }
     };
 

@@ -3,6 +3,7 @@ requirejs.config({
         "affiliationsModel":["model/affiliations"],
         "Backbone":["../bower_components/backbone/backbone"],
         "basePath":["basePath"],
+        "badgeModel":["model/badge"],
         "boardModel":["model/boardMembers"],
         "booksaleModel":["model/bookSale"],
         "bootstrap":["../bower_components/bootstrap/dist/js/bootstrap.min"],

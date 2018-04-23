@@ -1,6 +1,7 @@
 define(['jQuery', 
   'Backbone', 
   'homeModel', 
+  'badgeModel', 
   'boardModel', 
   'missionStatementModel', 
   'contactUsModel', 
@@ -19,6 +20,7 @@ define(['jQuery',
   function($, 
     Backbone, 
     homeModel, 
+    badgeModel, 
     boardModel, 
     missionStatementModel, 
     contactUsModel, 
@@ -57,6 +59,7 @@ define(['jQuery',
       'images/bridgeBigCenter.png'
     ],
     events:{ // events depends on defining _View.el 
+      'click #rowPowerOfWomen':'listenerRowPowerOfWomen',
       'click #navBarTop':'listenerNavBar',
       'click #headColRightLogo, #cfuwAddressURL, .cfuwOpenInSmallWindow':'listenerOpenSmallWindow',
       'click #footerTopRow ul li':'listenerNavFooter',
@@ -163,8 +166,10 @@ define(['jQuery',
       $nodeContainer.removeClass(this.cssClassShowBookSale);
       $nodeContainer.removeClass('col-xs-12').addClass('col-xs-10');
       this.optimizePageHeight();
-
-      this.setFooterPosition();
+      var that = this;
+      window.setTimeout(function(){
+        that.setFooterPosition();        
+      }, 444);
       
       var strModelId = options.idModel;
       var hashCssClassToSet = this.collection.where({'cid':strModelId})[0].get('hashCssClassToSet') || '';
@@ -225,6 +230,7 @@ define(['jQuery',
       }      
 
       !!$('#frmContactUsSubject') ? $('#frmContactUsSubject').focus() : ''; // Contact Form in View
+
     },
     setCustomListeners:function(options){
       var that = this;
@@ -256,6 +262,11 @@ define(['jQuery',
           });
         return void(0);
       }      
+      // TODO: fix this hack for 100th Anniversary
+      window.setTimeout(function(){
+        var $nodeContainerBadge = $('.containerBadgeHundredthAnniversary');
+        $nodeContainerBadge.addClass('fixForHundredthAnniversary');
+      }, 1111);
       // set footer to bottom of nodeViewContainer
       $nodeFooter.css('top', -(intTop + intHeight - 407) + 'px');
     },
@@ -465,6 +476,9 @@ define(['jQuery',
       } // End if
 
     }, // End fetch    
+    listenerRowPowerOfWomen:function(e, paramNodeFromTrigger){
+      this.listenerNavBar(e, paramNodeFromTrigger);
+    },
     listenerNavBar:function(e, paramNodeFromTrigger){ // listening to the nav bar, using event delegation
       var nodeTarget = e.target;
       this.$nodeViewContainer.addClass('jsNotVisible'); // hide immediately, otherwise new render shows before fade in
@@ -508,6 +522,12 @@ define(['jQuery',
           this.blnSetBackgroundWhite = true;            
           this.blnAddPaddingTopSmallest = true;
           break;
+        case 'btnBadge':
+          model = badgeModel.fnc.getInstance();
+          this.blnSetBackgroundOpacity = true;
+          this.blnSetBackgroundWhite = true;            
+          this.blnAddPaddingTopSmallest = true;               
+          break;
         case 'btnBoardMembers':
           model = boardModel.fnc.getInstance(); 
           this.blnSetBackgroundOpacity = true;
@@ -522,7 +542,9 @@ define(['jQuery',
           break;                
         case 'btnContactUs':
           model = contactUsModel.fnc.getInstance();
-          this.blnSetBackgroundWhite = true;
+          this.blnSetBackgroundOpacity = true;
+          this.blnSetBackgroundWhite = true;            
+          this.blnAddPaddingTopSmallest = true;    
           break;
         case 'btnEvents': 
           /* Client requested events be merged with meetings 2015 Dec 13 */

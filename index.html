@@ -19,7 +19,7 @@
   
   <link id="linkStylesheet" rel="stylesheet" href="styles/index.css" />
   <link id="linkStylesheet" rel="stylesheet" href="styles/theme.css" /> -->
-  <link id="linkStylesheet" rel="stylesheet" href="styles/indexMinified.css?version=1.2" />
+  <link id="linkStylesheet" rel="stylesheet" href="styles/indexMinified.css?version=1.3" />
   <!-- <link id="linkStylesheet" rel="stylesheet" href="styles/booksale.css" /> -->
   <link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet" />
 
@@ -29,8 +29,6 @@
     <![endif]-->
 
 </head>
-
-
 <body id="index">
 <!-- http://www.cheatography.com/masonjo/cheat-sheets/bootstrap/ -->
   <div id="mainContainer" class="container mainContainer">
@@ -44,7 +42,8 @@
         </div>                    
       </div>
       <div id="rowPowerOfWomen" class="row powerOfWomen cfuwWhite">
-        <h2 class="col-xs-12">The Power Of Women Working Together</h2>
+        <h2 class="col-xs-8">The Power Of Women Working Together</h2>
+        <div class="col-xs-4 isLink"><p id="btnBadge" data-index-number="12" class="col-xs-12 floatRight badgeCfuw">&#160;</p></div>
       </div>
     </section><!-- .jumbotron -->
   <!-- Begin Nav -->
@@ -79,7 +78,17 @@
             </ul>
           </li>
           <li><a id="btnBookSale" data-index-number="2" href="JavaScript:void(0);">Book Sale</a></li> 
-          <li><a id="btnScholarships" data-index-number="11" href="JavaScript:void(0);">Awards</a></li> 
+          
+
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="JavaScript:void(0);">Awards<span class="caret"></span></a>
+            <ul class="dropdown-menu cfuwDropDownThemeOrange">
+              <li><a id="btnScholarships" data-index-number="11" href="JavaScript:void(0);">Scholarships</a></li> 
+              <li class="hide"><a id="btnBursaries" data-index-number="13" href="JavaScript:void(0);">Bursaries</a></li>
+            </ul>
+          </li>
+
+
         </ul>
       </div>
     </div>
@@ -154,6 +163,29 @@
     <a class="col-xs-12 cfuwOpenInSmallWindow cfuwAnchorTag <%=strClass%>" data-href="<%= href %>" href="javaScript:void(0);" target="_blank"><%=affiliationName%></a>
   </div>
 </script>
+<script type="text/template" id="templateBadge">
+  <% if (typeof(strNameTitle) !== 'undefined') { %>
+    <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
+  <% } %>
+  <div class="row containerBadgeHundredthAnniversary">
+    <p class="col-xs-12 <%= strClassHeading %>"><%= heading%></p>
+    <p class="col-xs-12 <%= strClassText %>"><%= paragraph0%></p>
+    <p class="col-xs-12 <%= strClassText %> <%= strNodeName %>"><%= paragraph1%></p>
+    <p class="col-xs-12 <%= strClassText %> <%= strNodeName %>"><%= paragraph2%></p>
+    <p class="col-xs-12 <%= strClassText %> <%= strNodeName %>"><%= paragraph4%></p>  
+    <p class="col-xs-12 <%= strClassLineItem %> <%= strNodeName %>"><%= paragraph5%></p>
+    <p class="col-xs-12 <%= strClassLineItem %> <%= strNodeName %>"><%= paragraph6%></p>
+    <p class="col-xs-12 <%= typeof strClassLastParagraph != 'undefined' ? strClassLastParagraph: ''%> <%= strNodeName %>"><%= paragraph7%></p>    
+    <h5 class="col-xs-12 <%= strClassTextSubHeading %> <%= strNodeName %>"><%= subHeading1%></h5> 
+    <p class="col-xs-12 <%= strClassUnderSubheading %> <%= strNodeName %>"><%= paragraph3%></p> 
+    <h5 class="col-xs-12 <%= strClassTextSubHeading %> <%= strNodeName %>"><%= subHeading2%></h5> 
+    <ul>
+      <li class="<%= strClassLink %> <%= strNodeName %>">
+        <a class="<%= strClassLink %>" href="<%= strHref0%>"><%= link0%></a>
+      </li>
+    </ul>
+  </div>
+</script> 
 <script type="text/template" id="templateBoardMembers">
   <% if (typeof(strNameTitle) !== 'undefined') { %>
     <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
@@ -380,24 +412,6 @@
   <% } %>
   <% if (typeof(link) !== 'undefined') { %>
     <a class="cfuwAnchorTag <%=strClassAnchor%>" href="<%=href%>" target="_blank"><%= link %></a>
-  <% } %>
-  <% if (typeof(anchor1) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" name="<%=anchorName1%>"><%= anchor1 %></a>
-  <% } %>
-  <% if (typeof(anchor2) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" name="<%=anchorName2%>"><%= anchor2 %></a>
-  <% } %>
-  <% if (typeof(anchor3) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" name="<%=anchorName3%>"><%= anchor3 %></a>
-  <% } %>
-  <% if (typeof(anchorlink1) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" href="#<%=anchorLinkName1%>"><%= anchorlink1 %></a>
-  <% } %>
-  <% if (typeof(anchorlink2) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" href="#<%=anchorLinkName2%>"><%= anchorlink2 %></a>
-  <% } %>
-  <% if (typeof(anchorlink3) !== 'undefined') { %>
-    <a class="cfuwAnchorTag <%=strClassAnchor%>" href="#<%=anchorLinkName3%>"><%= anchorlink3 %></a>
   <% } %>
 </script>         
 </div> <!-- End #templatesOnly -->

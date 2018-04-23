@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <page>
-    <title strClassViewPageTitle="badgeView span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">100th Anniversary</title>
+    <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">100th Anniversary</title>
     <sections catagory="anniversary">
         <section>
             <heading strClassHeading="bold">CFUW 100th Anniversary - 2019</heading>
             <textNode strClassText="visible">&#160;</textNode>            
-            <paragraph0>CFUW will have been in existence for 100 years in 2019. To celebrate the anniversary, a number of projects and awards are planned which are outlined below.</paragraph0>
-            <paragraph1 strParagraphDefault="visible" class="">Notable Women Award(2019)</paragraph1>
-            <paragraph2 class="">One hundred awards will be given to members of the Canadian Federation of University Women who have made outstanding contributions within CFUW and/or to the wider community; locally, nationally, or internationally in the fields of Education, Science, Technology, Engineering, Mathematics, Economics, Political Engagement, Organizational Leadership, Cultural Endeavours, or Social Innovation. The award will be given to each recipient in the form of a limited edition 100th anniversary gold pin.</paragraph2>
-            <subHeading0 strClassText="" SubHeading="bold">Recipients shall be:</subHeading0>
-            <lineItem0 strClassLineItem="lineItem">Women who are current members of CFUW</lineItem0>
-            <lineItem1 strClassLineItem="lineItem">Women who have made contributions within the aims and objectives of CFUW.</lineItem1>
-            <lineItem2 strClassLineItem="lineItem">Women who have been recognized for sustained efforts over a period of time and have made a distinct and describable difference in their communities.</lineItem2>
-            <subHeading1 strClassTextSubHeading="bold">Distribution of Awards</subHeading1>
-            <paragraph3 strClassUnderSubheading="visible">To endeavour to make the distribution of awards as equitable as possible throughout Canada, the number of awards will be proportionate to the number of members per Region. Detailed information regarding number of nominations per club is stated below.</paragraph3>
+            <paragraph0>In the coming year, CFUW Saskatoon (Canadian Federation of University Women) will be celebrating 100 years of contributing to the Saskatoon community.</paragraph0>
+            <paragraph1 strParagraphDefault="visible" class="">On May 8, 2918, fifteen women met at what is now Nutana Collegiate. The result of this discussion was the formation of the University Women's Club of Saskatoon.  This program was to be a study of advancements made in the arts, sciences, and economics as well as a study of educational, social and community issues.</paragraph1>
+            <paragraph2 class="">On October 20, 1919, the group worked to enter into association and to become charter members of the National Canadian Federation of University Women.</paragraph2>
+            <paragraph4 strClassText="" SubHeading="">All women who support the objectives of CFUW are urged to join this very successful club. </paragraph4>
+            <paragraph5 strClassLineItem="">The group began very early to fund raise to assist women to attend and complete university degrees. CFUW Saskatoon holds a book sale yearly and uses the proceeds for scholarships for the University of Saskatchewan, bursaries for Saskatchewan Polytechnic and other community educational events and projects.</paragraph5>
+            <paragraph6 strClassLineItem="">The group has several interest and study groups and has a very active membership.</paragraph6>
+            <paragraph7 strClassLastParagraph="lineItem badgeHundredthAnniversaryParagraphLast">CFUW Saskatoon is very proud of 100 years of being active in the Saskatoon community and will be celebrating this success through the coming year.</paragraph7>
+            <subHeading1 strClassTextSubHeading="hide">Hello World</subHeading1>
+            <paragraph3 strClassUnderSubheading="hide">Hello World paragraph 3</paragraph3>
             <subHeading2>For more information and the application form(s)</subHeading2>
-            <link0 strHref0="http://www.cfuw-saskatoon.org">100th Anniversary Notable Woman Award (2019) Nomination Application (.docx)</link0>
+            <link0 strClassLink="hide" strHref0="http://www.cfuw-saskatoon.org">100th Anniversary Notable Woman Award (2019) Nomination Application (.docx)</link0>
         </section>
     </sections>
 </page>

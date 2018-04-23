@@ -1,3 +1,24 @@
+.badgeCfuw{
+    background-image:url(../images/badge2019CFUWStamp.jpg);
+    background-position:center 0;
+    background-repeat:no-repeat;
+    background-size:contain;
+    width:54%;
+    height:4em;        
+}
+.badgeCfuw:hover{
+    opacity:0.8;       
+}
+.containerBadgeHundredthAnniversary{
+    height:50px;
+    -webkit-transition:transform 3s;
+    -moz-transition:transform 3s;
+    -o-transition:transform 3s;
+    -ms-transition:transform 3s;
+}
+.fixForHundredthAnniversary{
+    height:500px;
+}
 .container.mainContainer{ /* do not allow icons and text to overly collapse */
     min-width:600px;
 }
