@@ -3,27 +3,6 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEETINGS / EVENTS</title>
     <meetings>
         <meeting>
-            <dateNode strClassDate="date">Monday, October 2nd, 2017 </dateNode>
-            <timeNode strClassTime="bullet">7:30 pm - 9:30 pm</timeNode>
-            <info strClassInfo="bullet">Scholarship Reception Night</info>
-            <location strClassLocation="bullet">Edwards Family Centre</location>
-            <otherInfo strClassOtherInfo="">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, November 6th, 2017</dateNode>
-            <timeNode strClassTime="bullet">7:30 pm - 9:30 pm</timeNode>
-            <info strClassInfo="bullet">SPEAKER: Cecile Smith, Teacher. Challenges faced living and teaching in the inner city</info>
-            <location strClassLocation="bullet">Edwards Family Centre</location>
-            <otherInfo strClassOtherInfo="">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, December 4th, 2017</dateNode>
-            <timeNode strClassTime="bullet">7:30 pm - 9:30 pm</timeNode>
-            <info strClassInfo="bullet">Christmas Social</info>
-            <location strClassLocation="bullet">Edwards Family Centre</location>
-            <otherInfo strClassOtherInfo="bullet">Choral Master Mary McKay- Seasonal  Sing - a - longs</otherInfo>
-        </meeting>
-        <meeting>
             <dateNode strClassDate="date">Saturday, January 6th, 2018</dateNode>
             <timeNode strClassTime="bullet">11:30 am - 2:00 pm</timeNode>
             <info strClassInfo="bullet">Luncheon - SPEAKER: Peggy Sarjeant - War Brides</info>
@@ -53,10 +32,94 @@
         </meeting>
         <meeting>
             <dateNode strClassDate="date">Monday, May 7th, 2018</dateNode>
+            <timeNode strClassTime="bullet">Cocktails 5:30  Dinner 6:30</timeNode>
+            <info strClassInfo="bullet">100th Anniversary Gala Anniversary Dinner - Speaker: Beth Bilson </info>
+            <location strClassLocation="bullet">Saskatoon Inn, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">TICKET $50.00</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Saturday, May 26, 2018</dateNode>
             <timeNode strClassTime="bullet">TBD</timeNode>
-            <info strClassInfo="bullet">AGM &#38; Banquet </info>
-            <location strClassLocation="bullet">Saskatoon Inn</location>
+            <info strClassInfo="bullet">Saskatchewan Regional Council Meeting</info>
+            <location strClassLocation="bullet">St. Martins United Church, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">TICKET $30.00</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, June 4, 2018</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Saskatoon CFUW AGM</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre</location>
             <otherInfo strClassOtherInfo="">&#160;</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Saturday, June 23, 2018</dateNode>
+            <timeNode strClassTime="bullet">TBA</timeNode>
+            <info strClassInfo="bullet">National CFUW AGM</info>
+            <location strClassLocation="bullet">TBA</location>
+            <otherInfo strClassOtherInfo="">Electronically transmitted to clubs</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Sunday, September 9, 2018</dateNode>
+            <timeNode strClassTime="bullet">2:00 - 4:00 PM</timeNode>
+            <info strClassInfo="bullet">Open House</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">Video Presentation of CFUW Saskatoon History - Margaret Hendry</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, October 1, 2018</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Scholarship Night</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">General Meeting</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, November 5, 2018</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Vignettes of CFUW members: Jeanette Dean</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">General Meeting</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, December 3, 2018</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Christmas Social</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">Sing-a-long: "Raging Grannies"</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Saturday, January 12, 2019</dateNode>
+            <timeNode strClassTime="bullet">11:30 AM</timeNode>
+            <info strClassInfo="bullet">Luncheon</info>
+            <location strClassLocation="bullet">Hilton Gardens, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">Speaker:Madame Justice Donna Wilson - Ticket Required</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, February 4, 2019</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Speaker:Topic: Mental Health</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">General Meeting</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, March 4, 2019</dateNode>
+            <timeNode strClassTime="bullet">TBA</timeNode>
+            <info strClassInfo="bullet">International Women's Day</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo=""> "International Dance and Song" - Troupe de Jour, Saskatoon</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, April 1, 2019</dateNode>
+            <timeNode strClassTime="bullet">7:30 PM</timeNode>
+            <info strClassInfo="bullet">Resolution Discussion</info>
+            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
+            <otherInfo strClassOtherInfo="">General Meeting</otherInfo>
+        </meeting>
+        <meeting>
+            <dateNode strClassDate="date">Monday, May 6, 2019</dateNode>
+            <timeNode strClassTime="bullet">Cocktails 5:30  Dinner 6:30</timeNode>
+            <info strClassInfo="bullet">Final 100th Anniversary Celebration Dinner</info>
+            <location strClassLocation="bullet">Bessborough Hotel - Terrace Room</location>
+            <otherInfo strClassOtherInfo="">Speaker: TBA - Ticket Required</otherInfo>
         </meeting>
     </meetings>
 </page>
