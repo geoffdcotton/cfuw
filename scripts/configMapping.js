@@ -89,9 +89,9 @@ define([], function(undefined){
             BADGE:{control:'btnBadge', 
                 intDataIndex:'12',
                 data:'badge.xml', 
-                tagsXml:['sections', 'section'], 
+                tagsXml:['sections', 'section', 'events'], 
                 tagsXmlChildsCommon:['paragraph0', 'paragraph1', 'paragraph2', 'paragraph3', 'textNode', 'heading', 
-                'lineItem0', 'lineItem1', 'lineItem2', 'paragraph4', 'subHeading1', 'subHeading2', 'link0'],
+                'lineItem0', 'lineItem1', 'lineItem2', 'paragraph4', 'subHeading1', 'subHeading2', 'link0', 'event'],
                 modelCid:'badgeId',
                 templateId:'templateBadge'}                
         }
