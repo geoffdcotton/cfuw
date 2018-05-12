@@ -3,13 +3,13 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">AWARDS</title>
 	<sections>
 		<section>
-			<paragraph0 strClass0="">The Canadian Federation of University Women/Saskatoon Inc. has been offering scholarships to female students at the University of Saskatchewan since 1940. Over $300,000 has been awarded since the programs' inception. Funding in support of these scholarships comes from members, families and friends of members, and bequests. Our largest annual infusion of money comes from our gigantic fall book sale.</paragraph0>
+			<paragraph0 strClass0="">The Canadian Federation of University Women/Saskatoon Inc. has been offering scholarships to female students at the University of Saskatchewan since 1940. Over $300,000 has been awarded since the program's inception. Funding in support of these scholarships comes from members, families and friends of members, and bequests. Our largest annual infusion of money comes from our gigantic fall book sale.</paragraph0>
 			<paragraph1 strClass1="">We offer up to eleven Undergraduate and six Graduate Scholarships.</paragraph1>
 		</section>
         <section>
             <paragraph0 strClass0="" class="inline">The Undergraduate Scholarships of $1,500 each are offered annually to female students in any field who have maintained an average of 75% or higher. The awards will be made only to full-time students at the University of Saskatchewan. Preference will be given to students working on their first degree.</paragraph0>
-            <paragraph1  strClass1="bold inline">The application deadline for the Undergraduate scholarship is to May 31st.</paragraph1>  
-            <paragraph2  strClass2="inline">and applicants will be informed in July or August. There are additional requirements specific to each of the eleven scholarships, please see the detailed information further down this page.</paragraph2>
+            <paragraph1  strClass1="bold inline">The application deadline for the Undergraduate scholarship is to May 31st,</paragraph1>
+            <paragraph2  strClass2="inline"> and aplicants will be informed in July or August. There are additional requirements specific to each of the eleven scholarships. Please see the detailed information further down this page.</paragraph2>
         </section>
         <section>
             <paragraph0 strClass0="">&#160;</paragraph0>
@@ -24,13 +24,7 @@
         </section>
         <section>
             <paragraph0 strClass0="">&#160;</paragraph0>
-            <paragraph1 strClass1="inline">The $5,000 </paragraph1>
-            <paragraph2 strClass2="inline bold">Newstead Doctoral Scholarship</paragraph2>
-            <paragraph3 strClass3="inline">is offered to a female student who has completed all the course requirements, including comprehensive exams, has the approval of the Ethics Committee, and is well advanced in the writing of her thesis or research project.  The application deadline for the Doctoral Scholarship is January 31st.</paragraph3>
-        </section>
-        <section>
-            <paragraph0 strClass0="">&#160;</paragraph0>
-            <paragraph1 strClass1="inline">There are additional requirements specific to each of the six graduate scholarships, please see the detailed information further down this page.</paragraph1>
+            <paragraph1 strClass1="inline">There are additional requirements specific to each of the six graduate scholarships. Please see the detailed information further down this page.</paragraph1>
         </section>
         <section>
             <paragraph0 strClass0="h2">Detailed Information</paragraph0>
@@ -60,7 +54,7 @@
         <section>
 	        <anchor2 strClassAnchor="bold block" anchorName2="grad">&#160;</anchor2>
             <paragraph0 strClass0="">&#160;</paragraph0>
-            <link strClassAnchor="bold block" href="https://students.usask.ca/documents/awards/cfuw.pdf">Undergraduate Scholarship Application (on University of Saskatchewan web site)</link>
+            <link strClassAnchor="bold block" href="https://students.usask.ca/money/awards/undergraduate-awards.php?award=EX0029C#myScholarships">Undergraduate Scholarship Application (on University of Saskatchewan web site)</link>
         </section>
         <section>
             <paragraph0 strClass0="h3">Graduate Scholarships</paragraph0>
