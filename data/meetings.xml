@@ -3,41 +3,6 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEETINGS / EVENTS</title>
     <meetings>
         <meeting>
-            <dateNode strClassDate="date">Saturday, January 6th, 2018</dateNode>
-            <timeNode strClassTime="bullet">11:30 am - 2:00 pm</timeNode>
-            <info strClassInfo="bullet">Luncheon - SPEAKER: Peggy Sarjeant - War Brides</info>
-            <location strClassLocation="bullet">Parktown Hotel</location>
-            <otherInfo strClassOtherInfo="bullet bold red">TICKETS REQUIRED</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, February 5th, 2018</dateNode>
-            <timeNode strClassTime="bullet">7:30 pm - 9:30 pm</timeNode>
-            <info strClassInfo="bullet">SPEAKER: Dr. John Pomeroy, Saskatchewan's Water Futures</info>
-            <location strClassLocation="bullet">Edwards Family Centre</location>
-            <otherInfo strClassOtherInfo="">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, March 5th, 2018</dateNode>
-            <timeNode strClassTime="bullet">TBD</timeNode>
-            <info strClassInfo="bullet">International Women's Day </info>
-            <location strClassLocation="bullet">TBA</location>
-            <otherInfo strClassOtherInfo="">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, April 2nd, 2018</dateNode>
-            <timeNode strClassTime="bullet">7:30 pm - 9:30 pm</timeNode>
-            <info strClassInfo="bullet">Resolutions</info>
-            <location strClassLocation="bullet">Edwards Family Centre </location>
-            <otherInfo strClassOtherInfo="">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, May 7th, 2018</dateNode>
-            <timeNode strClassTime="bullet">Cocktails 5:30  Dinner 6:30</timeNode>
-            <info strClassInfo="bullet">100th Anniversary Gala Anniversary Dinner - Speaker: Beth Bilson </info>
-            <location strClassLocation="bullet">Saskatoon Inn, Saskatoon</location>
-            <otherInfo strClassOtherInfo="">TICKET $50.00</otherInfo>
-        </meeting>
-        <meeting>
             <dateNode strClassDate="date">Saturday, May 26, 2018</dateNode>
             <timeNode strClassTime="bullet">TBD</timeNode>
             <info strClassInfo="bullet">Saskatchewan Regional Council Meeting</info>
@@ -104,8 +69,8 @@
             <dateNode strClassDate="date">Monday, March 4, 2019</dateNode>
             <timeNode strClassTime="bullet">TBA</timeNode>
             <info strClassInfo="bullet">International Women's Day</info>
-            <location strClassLocation="bullet">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo=""> "International Dance and Song" - Troupe de Jour, Saskatoon</otherInfo>
+            <location strClassLocation="bullet">Troupe de Jour, Saskatoon</location>
+            <otherInfo strClassOtherInfo=""> "International Dance and Song"</otherInfo>
         </meeting>
         <meeting>
             <dateNode strClassDate="date">Monday, April 1, 2019</dateNode>
@@ -118,7 +83,7 @@
             <dateNode strClassDate="date">Monday, May 6, 2019</dateNode>
             <timeNode strClassTime="bullet">Cocktails 5:30  Dinner 6:30</timeNode>
             <info strClassInfo="bullet">Final 100th Anniversary Celebration Dinner</info>
-            <location strClassLocation="bullet">Bessborough Hotel - Terrace Room</location>
+            <location strClassLocation="bullet">University Club - UofS Campus</location>
             <otherInfo strClassOtherInfo="">Speaker: TBA - Ticket Required</otherInfo>
         </meeting>
     </meetings>
