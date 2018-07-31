@@ -332,14 +332,14 @@
     <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
   <% } %>
   <p class= <%= '"'+ strClassDate + '"' %> > <%= dateNode%></p>
-  <p class= <%= '"'+ strClassTime + '"' %> > <%= timeNode%></p>
   <a
     class= <%= '"'+ strClassInfo + '"' %>
     target="_blank"
-    href= <%= typeof strHref != 'undefined' ? strHref: ''%> > <%= info%>
+    <%= typeof strHref != 'undefined' ? 'href="' + strHref + '"': '' %>> <%= info%>
   </a>
-  <p class= <%= '"'+ strClassLocation + '"' %> > <%= location%></p>
   <p class="<%= typeof strClassOtherInfo != 'undefined' ? strClassOtherInfo: ''%>"><%= otherInfo%></p>
+  <p class= <%= '"'+ strClassLocation + '"' %> > <%= location%></p>
+  <p class="marginBottomIncrease <%= strClassTime %>"> <%= timeNode%></p>
 </script>
 <script type="text/template" id="templateMembershipApplication">
   <% if (typeof(strNameTitle) !== 'undefined') { %>
