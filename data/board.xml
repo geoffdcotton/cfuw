@@ -4,111 +4,75 @@
     <members catagory="board">
         <member>
             <position>President</position>
-            <name>Mary Rowan</name>
-            <phone class="hide">&#160;</phone>
-            <email>mary.m.rowan@gmail.com</email>
+            <name>Marilyn Loken</name>
         </member>
         <member>
             <position>Past President</position>
-            <name>Janie Charbonneau</name>
-            <phone>306.242.5912</phone>
-            <email>ajzedc@gmail.com</email>
-        </member>        
+            <name>Mary Rowan</name>
+        </member>
         <member>
             <position>Vice President</position>
-            <name>Kathie Cram</name>
-            <phone>306.371.0854</phone>
-            <email>kcram53@hotmail.com</email>
-        </member>                
+            <name>Judy White</name>
+        </member>
         <member>
             <position>Treasurer</position>
             <name>Angela Schmidt</name>
-            <phone>306.242.2319</phone>
-            <email>schmidt@sasktel.net</email>
-        </member>                        
-        <member>  
+        </member>
+        <member>
             <position>Board Secretary</position>
-            <name>Gerlinde Sarkar</name>
-            <phone>306.374.3006</phone>
-            <email>gerlinde.sarkar@gmail.com</email>
-        </member>                        
-        <member>  
+            <name>Judy White</name>
+        </member>
+        <member>
             <position>General Secretary</position>
             <name>Penny-Lynn Micklewright</name>
-            <phone>306.956.3536</phone>
-            <email>pennylmickle@hotmail.com</email>
-        </member>                                
+        </member>
         <member>
             <position>Membership</position>
-            <name>Gerlinde Sarkar</name>
-            <phone>306.374.3006</phone>
-            <email>gerlinde.sarkar@gmail.com</email>
+            <name>Chair: Alverta Polson</name>
         </member>
-        <member>
-            <position>Membership Committee</position>
-            <name>Gerlinde Sarkar</name>
-            <phone>Melinde Waltz</phone>
-            <email>&#160;</email>
-        </member>        
         <member>
             <position>Program</position>
-            <name>Freda Toffolo</name>
-            <phone>306.374.6114</phone>
-            <email>freda.toffolo@gmail.com</email>
+            <name>Chair: Freda Toffolo</name>
         </member>
         <member>
-            <position>Program Committee</position>
-            <name>Penny-Lynn Micklewright</name>
-            <phone>&#160;</phone>
-            <email>&#160;</email>
-        </member>        
-        <member>
             <position>Publicity</position>
-            <name>Janie Charbonneau</name>
-            <phone>306.242.5912</phone>
-            <email>ajzedc@gmail.com</email>
-        </member>        
+            <name>Chair: Janie Charbonneau</name>
+        </member>
         <member>
             <position>Archives</position>
             <name>Margaret Hendry</name>
-            <phone>306.373.8693</phone>
-            <email>margaret.hendry@shaw.ca</email>
-        </member>  
+        </member>
         <member>
             <position>Book Sale</position>
-            <name>Alverta Polson</name>
-            <phone>306.652.7708</phone>
-            <email>johnpolson@shaw.ca</email>
-        </member>  
+            <name>Chair: Alverta Polson</name>
+        </member>
         <member>
             <position>Scholarship</position>
-            <name>Ferne Wagner</name>
-            <phone>306.665.6290</phone>
-            <email>fernewagner@hotmail.com</email>
-        </member>  
+            <name>Chair: Ferne Wagner</name>
+        </member>
         <member>
-            <position>Council of Women</position>
-            <name>Jean Thompson</name>
-            <phone>306.373.2925</phone>
-            <email>jeant@sasktel.net</email>
-        </member>          
+            <position>Facebook</position>
+            <name>Mary Rowan</name>
+        </member>
         <member>
             <position>Newsletter</position>
             <name>Tracy Muggli</name>
-            <phone>306.668.1044</phone>
-            <email>tmuggli@shaw.ca</email>
-        </member>                  
+        </member>
+        <member>
+            <position>Website</position>
+            <name>Marilyn Loken</name>
+        </member>
         <member>
             <position>Social Committee</position>
-            <name>Verna Sagansky</name>
-            <phone>Mae Popoff, Terri Chappell</phone>
-            <email>&#160;</email>
-        </member>                        
+            <name>Chair:  Donna Thomson</name>
+        </member>
+        <member>
+            <position>100th Anniversary</position>
+            <name>Chair: Marlene Chatterson</name>
+        </member>
         <member>
             <position>Finance Committee</position>
-            <name>Mary Rowan</name>
-            <phone>Kathie Cram, Angela Schmidt,Ferne Wagner, Alverta Polson, Marilyn Loken (member at large)</phone>
-            <email>&#160;</email>
+            <name>Chair: Angela Schmidt</name>
         </member>
     </members>
 </page>

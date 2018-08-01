@@ -14,7 +14,7 @@
             <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
             <info strClassInfo="bold">Scholarship Awards Night</info>
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention"> </otherInfo>
+            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
         </meeting>
         <meeting>
             <dateNode strClassDate="date">Monday, November 5, 2018</dateNode>
@@ -42,7 +42,7 @@
             <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
             <info strClassInfo="bold">Speaker: TBA. Topic: Mental Health.</info>
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention"> </otherInfo>
+            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
         </meeting>
         <meeting>
             <dateNode strClassDate="date">Monday, March 4, 2019</dateNode>
@@ -70,7 +70,7 @@
             <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
             <info strClassInfo="bold">Annual General Meeting</info>
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention"> </otherInfo>
+            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
         </meeting>
     </meetings>
 </page>
