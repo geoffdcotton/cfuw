@@ -48,7 +48,7 @@
             <dateNode strClassDate="date">Monday, March 4, 2019</dateNode>
             <timeNode strClassTime="increaseIndention">7:00 - 9:00 PM</timeNode>
             <info strClassInfo="bold">International Women's Day</info>
-            <location strClassLocation="increaseIndention">Troupe de Jour, Saskatoon</location>
+            <location strClassLocation="increaseIndention">La Troupe du Jour, Saskatoon</location>
             <otherInfo strClassOtherInfo="increaseIndention"> "International Dance and Song"</otherInfo>
         </meeting>
         <meeting>
