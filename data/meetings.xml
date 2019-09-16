@@ -3,74 +3,43 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEETINGS / EVENTS</title>
     <meetings>
         <meeting>
-            <dateNode strClassDate="date">Sunday, September 9, 2018</dateNode>
-            <timeNode strClassTime="increaseIndention">2:00 - 4:00 PM</timeNode>
-            <info strClassInfo="bold">CFUW Day: Open House</info>
+            <titleNode strClassTitle="subTitle marginBottomZero">Honours Night</titleNode>
+            <dateNode strClassDate="date increaseIndention">Monday, October 7, 2019  </dateNode>
+            <timeNode strClassTime="increaseIndention">Monday, October 7, 2019  </timeNode>
+            <!-- <info strClassInfo="bold">CFUW Day: Open House</info> -->
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">Saskatoon Council of Women Person's Day Luncheon &amp; Women's Hall of Fame Inductions</titleNode>
+            <dateNode strClassDate="date increaseIndention">Tuesday, October 8, 2019 </dateNode>
+            <timeNode strClassTime="increaseIndention">11:30 am Noon Lunch</timeNode>
+            <info strClassInfo="bold increaseIndention">Tickets $40.00  phone Ruth 306-374-8572</info>
+            <location strClassLocation="increaseIndention">Hilton Garden Inn, Saskatoon</location>
             <otherInfo strClassOtherInfo="increaseIndention">Video Presentation of CFUW Saskatoon History - Margaret Hendry</otherInfo>
         </meeting>
         <meeting>
-            <dateNode strClassDate="date">Monday, October 1, 2018</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Scholarship Awards Night</info>
+            <titleNode strClassTitle="subTitle marginBottomZero">General Meeting</titleNode>
+            <dateNode strClassDate="date">Monday, November 4, 2019</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 pm</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: Kathy Morrell: Saskatoon: The First Fifty Years</info>
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
+            <otherInfo strClassOtherInfo="increaseIndention">Kathy is a writer and historian. Her latest venture is the writing of a historical walking tour of Woodlawn Cemetery. She has ghost written three autobiographies, produced Nellie McClung: A One Person Play, a joint effort with actor Wendy Smith Sumner and director Robert du Laux. She has also written three scripts entitled Haunts of Yorkton, historical walking tours that included storytellers and actors. Kathy continues to work in the interesting but challenging work of the playwright. Her writing is published in Saskatchewan History and Prairies North.</otherInfo>
         </meeting>
         <meeting>
-            <dateNode strClassDate="date">Monday, November 5, 2018</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Vignettes of CFUW members: Jeanette Dean</info>
+            <titleNode strClassTitle="subTitle marginBottomZero">Christmas Social</titleNode>
+            <dateNode strClassDate="date">Monday, December 2, 2019</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
+            <!-- <info strClassInfo="bold">Vignettes of CFUW members: Jeanette Dean</info> -->
             <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo>
+            <!-- <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo> -->
         </meeting>
         <meeting>
-            <dateNode strClassDate="date">Monday, December 3, 2018</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Christmas Social</info>
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Sing-a-long: "Raging Grannies"</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Saturday, January 12, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">11:30 AM - 1:30 PM</timeNode>
-            <info strClassInfo="bold">Luncheon</info>
-            <location strClassLocation="increaseIndention">Hilton Gardens, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Speaker: Madame Justice Donna Wilson - Ticket Required - Cost $40</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, February 4, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Speaker: TBA. Topic: Mental Health.</info>
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, March 4, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">7:00 - 9:00 PM</timeNode>
-            <info strClassInfo="bold">International Women's Day</info>
-            <location strClassLocation="increaseIndention">La Troupe du Jour, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention"> "International Dance and Song"</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, April 1, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Resolution Discussion</info>
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, May 6, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">Cocktails 5:30 PM.  Dinner 6:30 PM</timeNode>
-            <info strClassInfo="bold">Final 100th Anniversary Celebration Dinner</info>
-            <location strClassLocation="increaseIndention">University Club - UofS Campus</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Speaker: TBA - Ticket Required - Cost $50</otherInfo>
-        </meeting>
-        <meeting>
-            <dateNode strClassDate="date">Monday, June 3, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 - 9:30 PM</timeNode>
-            <info strClassInfo="bold">Annual General Meeting</info>
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">&#160;</otherInfo>
+            <titleNode strClassTitle="subTitle marginBottomZero">Luncheon</titleNode>
+            <dateNode strClassDate="date">Saturday, January 12, 2020</dateNode>
+            <timeNode strClassTime="increaseIndention">11:30 am to 2:00 pm</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: Kathleen James-Cavan, Jane Austen</info>
+            <location strClassLocation="increaseIndention">Hilton Garden Inn, Saskatoon</location>
+            <otherInfo strClassOtherInfo="increaseIndention">Kathleen is an Associate Professor in the College of Arts &amp; Science, U of S. Tickets: $40.00</otherInfo>
         </meeting>
     </meetings>
 </page>

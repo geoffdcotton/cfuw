@@ -2,83 +2,68 @@
 <page>
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">INTEREST GROUPS</title>
 	<groups catagory="interestGroups">
+        <group>
+            <paragraph0 strClassText="">Coordinated by Vice President, Mary McKay, The Interest Groups are special as they afford opportunities of discussion, making discoveries, stimulating us and forging friendships.</paragraph0>
+        </group>
 		<group>
             <name>Adventures In Dining</name>
             <dateTime>2nd Tuesday at 6:00 pm</dateTime>
-            <contactPerson>Angela Schmidt 306.242.2319</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <contactPerson>Angela Schmidt, Convener</contactPerson>
+            <contactPersonSecond>Restaurant meal or theme meal at a member's home.</contactPersonSecond>
         </group>
         <group>
             <name>Art Appreciation</name>
-            <dateTime>4th Friday at 2:00 pm</dateTime>
-            <contactPerson>Janie Charbonneau 306.242.5912</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <dateTime>4th Friday at 1:00 pm</dateTime>
+            <contactPerson>Mary Rowan &amp; Mary McKay Conveners</contactPerson>
+            <contactPersonSecond>Attend an art show/gallery + coffee time</contactPersonSecond>
         </group>
         <group>
             <name>Biography Book Club</name>
             <dateTime>Last Monday at 7:30 pm</dateTime>
             <contactPerson>Ann van der Wal 306.270.0814</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <contactPersonSecond>Members present a biography for discussion.</contactPersonSecond>
         </group>
         <group>
             <name>Canadian Literature Book Club</name>
             <dateTime>4th Wednesday at 7:30 pm</dateTime>
-            <contactPerson>Gladys Somerville 306.242.6668</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <contactPerson>AGladys Somerville, Convener </contactPerson>
+            <contactPersonSecond>Members choose title/author for reading and discussion.</contactPersonSecond>
         </group>
         <group>
             <name>Mystery Book Club</name>
             <dateTime>3rd Tuesday at 2:00 pm</dateTime>
-            <contactPerson>Margaret Hendry 306.373.8693</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
-        </group>
-        <group>
-            <name>Financial Literacy</name>
-            <dateTime>4th Thursday at 7:30</dateTime>
-            <contactPerson>Gerlinde Sarkar 306.374.3006</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <contactPerson>Terri Chappell &amp; Sue Lingard, Conveners</contactPerson>
+            <contactPersonSecond>Members together choose title/author to read and discuss.</contactPersonSecond>
         </group>
         <group>
             <name>Friendly Visits</name>
             <dateTime>2nd Friday at 1 pm</dateTime>
-            <contactPerson>Alverta Polson 306.652.7708</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <contactPerson>Alverta Polson &amp; Melinda Waltz, Conveners</contactPerson>
+            <contactPersonSecond>Members meet for lunch 1 pm &amp;/or at 2 pm for coffee/dessert at various restaurants to visit.</contactPersonSecond>
         </group>
         <group>
             <name>Issues &#038; Actions</name>
-            <dateTime>TBA</dateTime>
-            <contactPerson>Vacant</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <dateTime>1st Thursday time TBA </dateTime>
+            <contactPerson>Ailsa Watkinson, Convener</contactPerson>
+            <contactPersonSecond>Discussions as to local, national &amp; international current events.</contactPersonSecond>
         </group>
         <group>
-            <name>International Relations</name>
-            <dateTime>TBA</dateTime>
-            <contactPerson>Gerlinde Sarkar 306.374.3006</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
-        </group>
-        <group>
-            <name>Opera Divas / Theatre</name>
-            <dateTime>Saturday noon (varies)</dateTime>
-            <contactPerson>Gerlinde Sarkar 306.374.3006</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
-        </group>
-        <group>
-            <name>Piano Fridays at the Bassment</name>
-            <dateTime>3rd Friday at 5:00</dateTime>
-            <contactPerson>Margaret Hendry 306.373.8693</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <name>Piano Jazz at the Bassment</name>
+            <dateTime>3rd Friday at 4:30</dateTime>
+            <contactPerson>Margaret Hendry, Convener</contactPerson>
+            <contactPersonSecond>Time to enjoy music with friends.</contactPersonSecond>
         </group>
         <group>
             <name>Travel Club</name>
-            <dateTime>1st Thursday at 7:30</dateTime>
-            <contactPerson>Angela Schmidt 306.242.2319</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <dateTime>1st Thursday - time TBA </dateTime>
+            <contactPerson>Angela Schmidt &amp; Gerlinde Sarkar, Conveners</contactPerson>
+            <contactPersonSecond>Sharing travel adventures.</contactPersonSecond>
         </group>
         <group>
-            <name>Theatre Visits</name>
-            <dateTime>TBA</dateTime>
-            <contactPerson>Angela Schmidt 306.242.2319</contactPerson>
-            <contactPersonSecond>&#160;</contactPersonSecond>
+            <name>Theatre </name>
+            <dateTime>As events come up</dateTime>
+            <contactPerson>Angela Schmidt, Convener</contactPerson>
+            <contactPersonSecond>Opportunity to attend with an interested member.</contactPersonSecond>
         </group>
 	</groups>
 </page>

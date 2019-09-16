@@ -9,7 +9,6 @@
   <meta itemprop="description" content="The Canadian Federation of University Women/Saskatoon Inc. is a non-profit, non-partisan, charitable organization with currently about seventy members. Membership is also open to women who are non-graduates but who support the goals and aspirations of CFUW." />
   <meta id="meta-tag-description" property="og:description" content="The Canadian Federation of University Women/Saskatoon Inc. is a non-profit, non-partisan, charitable organization with currently about seventy members. Membership is also open to women who are non-graduates but who support the goals and aspirations of CFUW." />
 
-
 <META http-equiv="X-UA-Compatible" content="IE=9" />
 
   <title>Canadian Federation of University Women Saskatoon - CFUW</title>
@@ -198,9 +197,12 @@
 
   <div class="container-fluid">
     <div class="row text-center bigBoldText fontFrancoisOne">
-      <h1 id="centerJustifyText7" class="col-xs-12 uppercase letters fontDesignRow8 line0"><%= h15 %></h1>
+      <!-- <h1 id="centerJustifyText7" class="col-xs-12 uppercase letters fontDesignRow8 line0"><%= h15 %></h1> -->
       <h1 id="centerJustifyText0" class="col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow1 line1"><%= h10 %></h1>
       <h1 id="centerJustifyText1" class="col-xs-12 uppercase letters fontDesignRow0 line0"><%= h11 %></h1>
+      <div class="row">
+        <div class="col-xs-12 marginZero <%= strClass4%>"></div>
+      </div>
       <% if (typeof(h12) !== 'undefined' && h12.length > 1) { %>
         <h1 id="centerJustifyText2" class="col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow6 stretch line2"><%= h12%></h1>
       <% } %>
@@ -320,32 +322,41 @@
     <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
   <% } %>
   <section class="interestGroups row">
-    <p class="marginBottomZero bold name col-xs-12"><%=name%></p>
-    <p class="marginBottomZero dateTime col-xs-12"><%=dateTime%></p>
-    <p class="marginBottomZero contactPerson col-xs-12"><%=contactPerson%></p>
-    <p class="marginBottomZero contactPerson col-xs-12 <%=contactPersonSecond.length > 1? 'marginBottomIncrease': ''%>"><%=contactPersonSecond%></p>
+    <% if (typeof(paragraph0) !== 'undefined') { %><p class=" bold name col-xs-12"><%=paragraph0%></p><% } %>
+    <% if (typeof(name) !== 'undefined') { %><p class="marginBottomZero bold name col-xs-12"><%=name%></p><% } %>
+    <% if (typeof(dateTime) !== 'undefined') { %><p class="marginBottomZero dateTime col-xs-12"><%=dateTime%></p><% } %>
+    <% if (typeof(contactPerson) !== 'undefined') { %><p class="marginBottomZero contactPerson col-xs-12"><%=contactPerson%></p><% } %>
+    <% if (typeof(contactPersonSecond) !== 'undefined') { %><p class="marginBottomZero contactPerson col-xs-12 <%=contactPersonSecond.length > 1? 'marginBottomIncrease': ''%>"><%=contactPersonSecond%></p><% } %>
   </section>
 </script>
 <script type="text/template" id="templateMeetings">
   <% if (typeof(strNameTitle) !== 'undefined') { %>
-    <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
+    <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle %></h3>
   <% } %>
-  <p class= <%= '"'+ strClassDate + '"' %> > <%= dateNode%></p>
+  <% if (typeof(titleNode) !== 'undefined') { %>
+  <p class=<%= '"' + strClassTitle + '"' %> ><%= titleNode %></p>
+  <% } %>
+  <p class= <%= '"'+ strClassDate + '"' %> > <%= dateNode %></p>
+  <p class= <%= '"'+ strClassLocation + '"' %> > <%= location %></p>
+  <p class="<%= strClassTime %>"> <%= timeNode %></p>
+  <% if (typeof(info) !== 'undefined') { %>
   <a
     class= <%= '"'+ strClassInfo + '"' %>
     target="_blank"
-    <%= typeof strHref != 'undefined' ? 'href="' + strHref + '"': '' %>> <%= info%>
+    <%= typeof strHref != 'undefined' ? 'href="' + strHref + '"': '' %>> <%= info %>
   </a>
-  <p class="<%= typeof strClassOtherInfo != 'undefined' ? strClassOtherInfo: ''%>"><%= otherInfo%></p>
-  <p class= <%= '"'+ strClassLocation + '"' %> > <%= location%></p>
-  <p class="marginBottomIncrease <%= strClassTime %>"> <%= timeNode%></p>
+  <% } %>
+  <% if (typeof(otherInfo) !== 'undefined') { %>
+  <p class="marginBottomIncrease <%= typeof strClassOtherInfo != 'undefined' ? strClassOtherInfo: ''%>"><%= otherInfo %></p>
+  <% } else { %>
+      <p class="marginBottomIncrease"></p>
+  <% } %>
 </script>
 <script type="text/template" id="templateMembershipApplication">
   <% if (typeof(strNameTitle) !== 'undefined') { %>
     <h3 class=" <%= strClassViewPageTitle %> "><%= strNameTitle%></h3>
   <% } %>
   <div class="row">
-    <a class="cfuwAnchorTag <%= strClassWord%> col-xs-12" target="_blank" href= <%= '"'+ hrefWord + '"' %> > <%= word %> </a>
     <a class="cfuwAnchorTag <%= strClassPdf%> col-xs-12" target="_blank" href= <%= '"'+ hrefPdf + '"' %> > <%= pdf %> </a>
   </div>
 </script>

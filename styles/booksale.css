@@ -40,12 +40,13 @@
     text-align:center;
 }
 .letters.fontDesignRow0{
-    letter-spacing:-2px;    
+    letter-spacing:-2px;
+    font-size: 1.4em;
 }
 .letters.fontDesignRow1{
     letter-spacing:0;
     text-indent:0em;
-    font-size:1.4em;
+    font-size:0.7em;
 }
 .letters.fontDesignRow3{
     letter-spacing:0;
@@ -57,11 +58,11 @@
     font-family:'EBGaramondInitialsFill2Regular sans-serif';
     letter-spacing:-1px;
     text-indent:-0.1em;
-    font-size:69px; 
+    font-size:69px;
 }
 .letters.fontDesignRow5{
     font-family:'EBGaramondInitialsFill2Regular';
-    font-size:50px; 
+    font-size:50px;
     font-weight:normal;
     letter-spacing:.02em;
 }
@@ -99,6 +100,7 @@
 }
 .yellowFontSize, div.yellowFontSize, div.yellowFontSize h2{
     font-size:32px;
+    display:none;
 }
 .centerContents{
     width:70vh;
@@ -107,15 +109,15 @@
     margin:auto;
 }
 div.fontFrancoisOne{
-    font-family:'Francois One', sans-serif;    
+    font-family:'Francois One', sans-serif;
 }
 .letters.fontDesignRowBefore:before{ /*hack, word favors the left, this is a weird fix*/
-    
+
 }
 .letters.fontDesignRow2{
     font-size:1.5em;
-    letter-spacing:0;    
-    text-indent:0;    
+    letter-spacing:0;
+    text-indent:0;
 }
 .letters.fontDesignRow2:before{ /*hack, word favors the left, this is a weird fix*/
 
@@ -132,7 +134,7 @@ div.fontFrancoisOne{
 .stretch {
     width: 100%;
     display: block;
-    
+
 }
 .hide{
     display:none;
@@ -163,35 +165,43 @@ div.fontFrancoisOne{
 }
 .xmlDefinedBookSaleImage{
     height:3.5em;
-    margin-top:0;    
-    background:#ffffff url("../images/BookSaleBookShelved.png") no-repeat;
+    margin-top:0;
+    background:#ffffff url("../images/booksale-2019-2.jpg") no-repeat;
     background-position:center;
+    background-size: contain;
+}
+.xmlDefinedBookSaleImage1{
+    height:3.5em;
+    margin-top:0;
+    background:#ffffff url("../images/booksale-2019-1.jpg") no-repeat;
+    background-position:center;
+    background-size: contain;
 }
 @media (max-width:767px) and (orientation:landscape), (max-width:767px) and (orientation:portrait){
     .letters.fontDesignRow0{
         font-size:228%;
-    }    
+    }
     .letters.fontDesignRow1{
         letter-spacing:0;
         text-indent:0em;
         font-size:2.0em;
-    }    
+    }
     .letters.fontDesignRow2{
         font-size:4.7em;
         letter-spacing:0;
-        text-indent:0;        
+        text-indent:0;
     }
     .letters.fontDesignRow3{
         font-size:4.5em;
         text-indent:0;
-    }    
+    }
     .letters.fontDesignRow4{
-        font-size:1.5em; 
+        font-size:1.5em;
         letter-spacing:0.2em;
         text-indent:0.2em;
     }
     .letters.fontDesignRow5{
-        font-size:100%; 
+        font-size:100%;
     }
     .bookSaleDate.fontDesignRow6{
         font-size:1.2em;
@@ -199,7 +209,7 @@ div.fontFrancoisOne{
     .xmlDefinedBookSaleImage{
         height:6em;
         margin-top:1.0em;
-    }        
+    }
     .bigBoldText .letters.fontDesignRow6{
         font-size:90%;
     }
@@ -213,7 +223,7 @@ div.fontFrancoisOne{
         height:150%;
     }
     .bookSaleDate.fontDesignRow6{
-    
+
     }
     .centerContents{
         height:71px;
@@ -234,7 +244,7 @@ div.fontFrancoisOne{
     }
     .visibleHidden{
         display:none;
-    }    
+    }
     .yellowBackground{
         width:100%;
         height:80px;
@@ -242,6 +252,6 @@ div.fontFrancoisOne{
     }
     .letters.fontDesignRow5{
         font-size:1.0em;
-        line-height:1.2em; 
+        line-height:1.2em;
     }
 }

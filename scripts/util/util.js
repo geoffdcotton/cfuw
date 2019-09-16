@@ -1,11 +1,11 @@
 define(['jQuery'], function($, undefined){
     'use strict';
-    var w = window, d = document;    
+    var w = window, d = document;
     var TAG_NAME_DOC_FIRST_CHILD = 'page'; // private member
     var TAG_NAME_DOC_TITLE = 'title'; // private member
     var mNewWindow = null;
     var ELEMENT = 1;
-    
+
 
     var _fnc = {
         noCache:function(){
@@ -21,7 +21,7 @@ define(['jQuery'], function($, undefined){
                 dataType:'text',
                 success:function(data){
                      $(options.selector).triggerHandler('http:response', [data]); // data is the HTTP Response
-                }                
+                }
             });
         },
         appendFragment:function(options){
@@ -34,7 +34,7 @@ define(['jQuery'], function($, undefined){
             strAttribute= strAttribute.replace('hide', '');
             nodeNew.appendChild(nodeText);
             nodeExist.appendChild(nodeNew);
-            nodeExist.setAttribute('class', strAttribute);    
+            nodeExist.setAttribute('class', strAttribute);
         },
         getElementNode:function(paramNode, paramArray, paramIndex){
             var node = paramNode;
@@ -44,7 +44,7 @@ define(['jQuery'], function($, undefined){
             var strName = '';
             var strNodeName = '';
             var strNodeValue = '';
-            var strValue = '';       
+            var strValue = '';
 
             if(node.childNodes.length > 0){
                    paramArray.push(node.childNodes);
@@ -66,15 +66,15 @@ define(['jQuery'], function($, undefined){
           var blnNodeInViewDoNotShow = !!( options.nodeInViewDoNotShow );
           var STR_CSS_ARROW_FADE_IN = options.jsCssClassToAdd;
           var $nodeToAddJsCssClass = options.$nodeToAddJsCssClass;
-          
+
           if(blnNodeInViewDoNotShow === true){ // do not show arrow icon
             $nodeToAddJsCssClass.removeClass(STR_CSS_ARROW_FADE_IN);
-            return void(0); 
+            return void(0);
           }
-          
+
           /* optimization: do not access if contact us is in view */
           var intViewFromTop = $(window).scrollTop();
-          var intWindowWidth = $(window).width(); 
+          var intWindowWidth = $(window).width();
           var intViewFromTopRatio = intViewFromTop/intWindowWidth;
           var $nodeArrowIcon = $nodeToAddJsCssClass;
           var blnAddJsClass = false;
@@ -88,7 +88,7 @@ define(['jQuery'], function($, undefined){
           }else{
             $nodeArrowIcon.removeClass(STR_CSS_ARROW_FADE_IN);
           }
-        },        
+        },
         parseXmlToJson:function(paramXml, paramOptionTags){
             var $xmlDoc = $(paramXml);
             var arry = [];
@@ -112,15 +112,15 @@ define(['jQuery'], function($, undefined){
             var strNodeName = null;
             var hashNodeName = {};
             var nodeValue = '';
-            var intXmlCategoryCounter = 0; 
-    
+            var intXmlCategoryCounter = 0;
+
             hashElementNodes['strNameTitle'] = title;
             hashElementNodes = _fnc.setAttributes(hashElementNodes, nodeTitle);
 
             for(var i = 0, len = members.length; i < len; i++){ // push each XML common parent nodes to arry
                 arry.push(members[i]);
-            } 
-            
+            }
+
             for(var i = 0, len = arry.length; i < len; i++){ // access each common parent node and push attributes to hash
                $(arry[i].childNodes).each(function(index, elm){
                     if(elm.nodeType == 1){
@@ -133,20 +133,20 @@ define(['jQuery'], function($, undefined){
                       var nodeNameChilds = elm.nodeName;
                       if( elm.hasChildNodes() ){ // testing for generic child nodes. Most all XML nodes have children
                         _fnc.getChildNodes(elm, hashElementNodes);
-                        console.group('GET CHILD NODES');
-                          console.log('elm.nodeName:\t', elm.nodeName);
-                         console.groupEnd(); 
+                        // console.group('GET CHILD NODES');
+                        //   console.log('elm.nodeName:\t', elm.nodeName);
+                        //  console.groupEnd();
 
                       }
                       hashElementNodes[elm.nodeName] = strNodeValue;
                       hashElementNodes['strNodeName'] = strNodeName;
-                    } 
+                    }
                });
-               intXmlCategoryCounter = 0; // reset to beginning of tagsXmlChildsCommon array                   
+               intXmlCategoryCounter = 0; // reset to beginning of tagsXmlChildsCommon array
 
                arryElementNodes.push(hashElementNodes); // forming hash for underscore template
                hashElementNodes = new Object; // hashes are reference vars, so, clear it. We do not overwrite previous values
-            } // End for  
+            } // End for
 
             return {pageTitle:title, pageData:arryElementNodes, hashNodeClass:hashNodeAttributes};
         }, // End parseXmlToJson
@@ -171,10 +171,10 @@ define(['jQuery'], function($, undefined){
                         var blnIsValid = false;
                         var intWordCount = value.match(/\w+/g).length; // return number of words
 
-                        intWordCount > 2 ? blnIsValid = true :  blnIsValid = false;     
+                        intWordCount > 2 ? blnIsValid = true :  blnIsValid = false;
 
                         return this.optional( element ) || blnIsValid;
-                    });     
+                    });
 
 
             } // End switch
