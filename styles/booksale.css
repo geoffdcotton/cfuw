@@ -18,6 +18,9 @@
 .marginZero, .marginZeroOnChilds h2{
     margin:0;
 }
+.imageMargin {
+    margin-bottom:0.5em;
+}
 .kerning{
     letter-spacing:-9px;
 }
@@ -46,7 +49,7 @@
 .letters.fontDesignRow1{
     letter-spacing:0;
     text-indent:0em;
-    font-size:0.7em;
+    font-size:0.6em;
 }
 .letters.fontDesignRow3{
     letter-spacing:0;
@@ -62,7 +65,7 @@
 }
 .letters.fontDesignRow5{
     font-family:'EBGaramondInitialsFill2Regular';
-    font-size:50px;
+    font-size:35px;
     font-weight:normal;
     letter-spacing:.02em;
 }
@@ -82,8 +85,10 @@
     text-align:center;
 }
 .bigBoldText .letters.fontDesignRow8{
+    font-family:'EBGaramondInitialsFill2Regular sans-serif';
     text-align:center;
     font-size:0.3em;
+    font-weight: normal;
 }
 
 .socialIconContainer{
@@ -164,19 +169,28 @@ div.fontFrancoisOne{
     width:100%;
 }
 .xmlDefinedBookSaleImage{
-    height:3.5em;
+    height:545px;
     margin-top:0;
-    background:#ffffff url("../images/booksale-2019-2.jpg") no-repeat;
+    background:#ffffff url("../images/booksale-2020-details.jpg") no-repeat;
     background-position:center;
     background-size: contain;
 }
 .xmlDefinedBookSaleImage1{
-    height:3.5em;
+    height:145px;
     margin-top:0;
-    background:#ffffff url("../images/booksale-2019-1.jpg") no-repeat;
+    background:#ffffff url("../images/booksale-2020-header.jpg") no-repeat;
     background-position:center;
     background-size: contain;
 }
+.xmlDefinedBookSaleImage2{
+    height:310px;
+    margin-top:0;
+    background:#ffffff url("../images/booksale-logo.jpg") no-repeat;
+    background-position:center;
+    background-size: contain;
+}
+
+
 @media (max-width:767px) and (orientation:landscape), (max-width:767px) and (orientation:portrait){
     .letters.fontDesignRow0{
         font-size:228%;

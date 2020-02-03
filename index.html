@@ -17,7 +17,7 @@
 
   <link id="linkStylesheet" rel="stylesheet" href="styles/index.css" />
   <link id="linkStylesheet" rel="stylesheet" href="styles/theme.css" /> -->
-  <link id="linkStylesheet" rel="stylesheet" href="styles/indexMinified.css?version=1.33" />
+  <link id="linkStylesheet" rel="stylesheet" href="styles/indexMinified.css?version=1.34" />
   <!-- <link id="linkStylesheet" rel="stylesheet" href="styles/booksale.css" /> -->
   <link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet" />
 
@@ -197,16 +197,33 @@
 
   <div class="container-fluid">
     <div class="row text-center bigBoldText fontFrancoisOne">
-      <!-- <h1 id="centerJustifyText7" class="col-xs-12 uppercase letters fontDesignRow8 line0"><%= h15 %></h1> -->
-      <h1 id="centerJustifyText0" class="col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow1 line1"><%= h10 %></h1>
-      <h1 id="centerJustifyText1" class="col-xs-12 uppercase letters fontDesignRow0 line0"><%= h11 %></h1>
+      <h1 id="centerJustifyText0" class="hide col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow1 line1"><%= h10 %></h1>
+      <h1 id="centerJustifyText1" class="hide col-xs-12 uppercase letters fontDesignRow0 line0"><%= h11 %></h1>
+      <h1 id="centerJustifyText7" class="hide col-xs-12 uppercase letters fontDesignRow5 line0"><%= h15 %></h1>
       <div class="row">
-        <div class="col-xs-12 marginZero <%= strClass4%>"></div>
+        <div class="col-xs-12 imageMargin <%= strClass4%>"></div>
       </div>
       <% if (typeof(h12) !== 'undefined' && h12.length > 1) { %>
         <h1 id="centerJustifyText2" class="col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow6 stretch line2"><%= h12%></h1>
       <% } %>
       <div class="row">
+          <p class="letters fontDesignRow8"><%= paragraph0 %></p>
+          <p class="letters fontDesignRow8"><%= paragraph1 %></p>
+      </div>
+      <div class="row small">
+          <div class="col-lg-6"><div class="col-xs-12 imageMargin <%= strClass5 %>"></div></div>
+          <div class="col-lg-6">
+              <h1 id="centerJustifyText2" class="col-xs-12 uppercase letters fontDesignRowBefore fontDesignRow5"><%= h16 %></h1>
+              <p class="letters fontDesignRow8"><%= recipient1 %></p>
+              <p class="letters fontDesignRow8"><%= recipient2 %></p>
+              <p class="letters fontDesignRow8"><%= recipient3 %></p>
+              <p class="letters fontDesignRow8"><%= recipient4 %></p>
+              <p class="letters fontDesignRow8"><%= recipient5 %></p>
+              <p class="letters fontDesignRow8"><%= recipient6 %></p>
+              <p class="letters fontDesignRow8"><%= recipient7 %></p>
+          </div>
+      </div>
+      <div class="row hide">
         <h1 id="" class="col-xs-3 displayNone letters fontDesignRow fontDesignRow6 line6">&#160;</h1>
         <h1 id="centerJustifyText4" class="col-xs-12 marginZero override notBold letters fontDesignRowBefore fontDesignRow4 stretch line4"><%= h14 %></h1>
       	<% if (typeof(h13) !== 'undefined' && h13.length > 1) { %>
