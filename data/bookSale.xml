@@ -5,7 +5,8 @@
 		<member>
 			<h15>Turning Books into Scholarships</h15>
             <h10 class="big red hvr-underline-from-left">cfuw saskatoon mammoth</h10>
-            <h11 class="big red">Oct 14 &amp; 15, 2020</h11>
+            <h11 class="big red">POSTPONED</h11>
+			<!-- <h11 class="big red">Oct 14 &amp; 15, 2020</h11> -->
             <!-- <h12 class="big red">Two Days Only !</h12> -->
             <h13 class="big black">9 am &#038; 8 pm</h13>
             <h14 class="big black">October 16 &#038; 17, 2019</h14>
@@ -20,6 +21,9 @@
             <yellowBlock3>&#160;</yellowBlock3>
 			<paragraph0>In 1965, CFUW Saskatoon held it's first book sale. Over the years it has grown to the Mammoth Book Sale it is today. We rely on the generosity of fellow book lovers who donate the books for our sale. Hundreds of volunteer hours go into the receiving, sorting and selling of the donated books.</paragraph0>
 			<paragraph1>Each year CFUW Saskatoon presents over $30,000.00 in scholarships and bursaries to female students in Saskatoon. Most of the money comes from proceeds of the Book Sale. The balance is funded by requests, private donations and investment income from our Scholarship Trust Fund. (CFUW-Saskatoon, Inc Scholarship Trust Fund is a registered charity)</paragraph1>
+			<paragraph2>CFUW Mammoth Book Sale will be postponed until we get the All-Clear from the government that it is safe to do so.</paragraph2>
+			<paragraph3>Book donations are still being accepted at 3501 8th St East. See times below.</paragraph3>
+			<paragraph4>Thank you for your continued support. Stay well.</paragraph4>
 			<booksaleImage2 strClass5="xmlDefinedBookSaleImage2">&#160;</booksaleImage2>
 			<booksaleImage1 strClass4="xmlDefinedBookSaleImage1">&#160;</booksaleImage1>
             <booksaleImage strClass3="xmlDefinedBookSaleImage">&#160;</booksaleImage>
@@ -29,10 +33,11 @@
 				<recipient1>7 undergraduate scholarships</recipient1>
 				<recipient2>4 graduate scholarships</recipient2>
 				<recipient3>1 doctoral scholarship</recipient3>
-				<recipient4>1 Royal West bursary</recipient4>
-				<recipient5>Saskatoon Music Festival</recipient5>
-				<recipient6>Saskatoon Regional Science Fair</recipient6>
-				<recipient7>Heart of the City Piano Program</recipient7>
+				<recipient4>2 Bursaries Saskatoon Polytech</recipient4>
+				<recipient5>1 Royal West bursary</recipient5>
+				<recipient6>Saskatoon Music Festival</recipient6>
+				<recipient7>Saskatoon Regional Science Fair</recipient7>
+				<recipient8>Heart of the City Piano Program</recipient8>
 		</member>
 	</members>
 </page>

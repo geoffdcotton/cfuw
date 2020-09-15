@@ -19,7 +19,7 @@ define([], function(undefined){
                 intDataIndex:'2',
                 data:'bookSale.xml?version=1.2',
                 tagsXml:['page', 'member'],
-                tagsXmlChildsCommon:['link', 'h10', 'paragraph0', 'paragraph1', 'booksaleImage', 'booksaleImage1', 'booksaleImage2', 'recipient1', 'recipient2', 'recipient3', 'recipient4', 'recipient5', 'recipient6', 'recipient7'],
+                tagsXmlChildsCommon:['link', 'h10', 'paragraph0', 'paragraph1','paragraph2', 'paragraph3', 'paragraph4', 'booksaleImage', 'booksaleImage1', 'booksaleImage2', 'recipient1', 'recipient2', 'recipient3', 'recipient4', 'recipient5', 'recipient6', 'recipient7'],
                 modelCid:'bookSaleId',
                 templateId:'templateBooksale'},
             CONTACT_US:{control:'btnContactUs',
