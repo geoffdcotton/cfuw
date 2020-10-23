@@ -3,43 +3,60 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEETINGS / EVENTS</title>
     <meetings>
         <meeting>
-            <titleNode strClassTitle="subTitle marginBottomZero">Honours Night</titleNode>
-            <dateNode strClassDate="date increaseIndention">Monday, October 7, 2019  </dateNode>
-            <timeNode strClassTime="increaseIndention">Monday, October 7, 2019  </timeNode>
-            <!-- <info strClassInfo="bold">CFUW Day: Open House</info> -->
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-        </meeting>
-        <meeting>
-            <titleNode strClassTitle="subTitle marginBottomZero">Saskatoon Council of Women Person's Day Luncheon &amp; Women's Hall of Fame Inductions</titleNode>
-            <dateNode strClassDate="date increaseIndention">Tuesday, October 8, 2019 </dateNode>
-            <timeNode strClassTime="increaseIndention">11:30 am Noon Lunch</timeNode>
-            <info strClassInfo="bold increaseIndention">Tickets $40.00  phone Ruth 306-374-8572</info>
-            <location strClassLocation="increaseIndention">Hilton Garden Inn, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Video Presentation of CFUW Saskatoon History - Margaret Hendry</otherInfo>
-        </meeting>
-        <meeting>
             <titleNode strClassTitle="subTitle marginBottomZero">General Meeting</titleNode>
-            <dateNode strClassDate="date">Monday, November 4, 2019</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 pm</timeNode>
-            <info strClassInfo="bold increaseIndention">Speaker: Kathy Morrell: Saskatoon: The First Fifty Years</info>
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Kathy is a writer and historian. Her latest venture is the writing of a historical walking tour of Woodlawn Cemetery. She has ghost written three autobiographies, produced Nellie McClung: A One Person Play, a joint effort with actor Wendy Smith Sumner and director Robert du Laux. She has also written three scripts entitled Haunts of Yorkton, historical walking tours that included storytellers and actors. Kathy continues to work in the interesting but challenging work of the playwright. Her writing is published in Saskatchewan History and Prairies North.</otherInfo>
+            <dateNode strClassDate="date increaseIndention">Monday, November 2, 2020</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 p.m.</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: Lori Steward</info>
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <otherInfo strClassOtherInfo="increaseIndention">Lori is passionate about helping newcomers to Saskatoon achieve full and successful lives.  She began her journey at Global Gathering Place (GGP) in 2006 as a volunteer in English-as-a-Second-Language (ESL) classes.  Since then, she has held a variety of positions and is now the Refugee and Immigrant Health and Care Coordination Manager.  Her team provides one-on-one case coordination and life skills support to the most vulnerable clients.</otherInfo>
         </meeting>
         <meeting>
             <titleNode strClassTitle="subTitle marginBottomZero">Christmas Social</titleNode>
-            <dateNode strClassDate="date">Monday, December 2, 2019</dateNode>
+            <dateNode strClassDate="date increaseIndention">Monday, December 7, 2020</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 p.m.</timeNode>
+            <!-- <info strClassInfo="bold increaseIndention">Tickets $40.00  phone Ruth 306-374-8572</info> -->
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <otherInfo strClassOtherInfo="increaseIndention">This is an opportunity for members to star in the Christmas Social by sharing their talents, memories, traditions, stories, or poems in short presentations.  Share a memory or tradition that means Christmas to you.  In this "New Normal," we want to share the joy!  Bring those memories to the surface and volunteer to make this a joyful evening.</otherInfo>
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">Virtual Author's Presentation</titleNode>
+            <dateNode strClassDate="date">Saturday, January 9, 2021</dateNode>
+            <timeNode strClassTime="increaseIndention">1:00 pm</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: T.B.A.</info>
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <!-- <otherInfo strClassOtherInfo="increaseIndention">Kathy is a writer and historian. Her latest venture is the writing of a historical walking tour of Woodlawn Cemetery. She has ghost written three autobiographies, produced Nellie McClung: A One Person Play, a joint effort with actor Wendy Smith Sumner and director Robert du Laux. She has also written three scripts entitled Haunts of Yorkton, historical walking tours that included storytellers and actors. Kathy continues to work in the interesting but challenging work of the playwright. Her writing is published in Saskatchewan History and Prairies North.</otherInfo> -->
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">General Meeting</titleNode>
+            <dateNode strClassDate="date">Monday, February 1, 2021</dateNode>
             <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
-            <!-- <info strClassInfo="bold">Vignettes of CFUW members: Jeanette Dean</info> -->
-            <location strClassLocation="increaseIndention">W.A. Edwards Centre, Saskatoon</location>
+            <info strClassInfo="bold increaseIndention">Speaker: T.B.A.</info>
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
             <!-- <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo> -->
         </meeting>
         <meeting>
-            <titleNode strClassTitle="subTitle marginBottomZero">Luncheon</titleNode>
-            <dateNode strClassDate="date">Saturday, January 12, 2020</dateNode>
-            <timeNode strClassTime="increaseIndention">11:30 am to 2:00 pm</timeNode>
-            <info strClassInfo="bold increaseIndention">Speaker: Kathleen James-Cavan, Jane Austen</info>
-            <location strClassLocation="increaseIndention">Hilton Garden Inn, Saskatoon</location>
-            <otherInfo strClassOtherInfo="increaseIndention">Kathleen is an Associate Professor in the College of Arts &amp; Science, U of S. Tickets: $40.00</otherInfo>
+            <titleNode strClassTitle="subTitle marginBottomZero">General Meeting - International Women's Day</titleNode>
+            <dateNode strClassDate="date">Monday, March 8, 2021</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: T.B.A.</info>
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <!-- <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo> -->
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">General Meeting</titleNode>
+            <dateNode strClassDate="date">Monday, April 12, 2021</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
+            <info strClassInfo="bold increaseIndention">Resolutions 2021</info>
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <!-- <otherInfo strClassOtherInfo="increaseIndention">General Meeting</otherInfo> -->
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">Annual General Meeting (AGM)</titleNode>
+            <dateNode strClassDate="date">Monday, May 31, 2021</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
+            <!-- <info strClassInfo="bold increaseIndention">Speaker: Kathleen James-Cavan, Jane Austen</info> -->
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <!-- <otherInfo strClassOtherInfo="increaseIndention">Kathleen is an Associate Professor in the College of Arts &amp; Science, U of S. Tickets: $40.00</otherInfo> -->
         </meeting>
     </meetings>
 </page>

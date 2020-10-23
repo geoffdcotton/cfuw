@@ -3,7 +3,15 @@
 	<title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">HOME</title>
 	<paragraphs catagory="home">
 		<paragraph>
-            <heading strClassHeading="bold">A HISTORY OF CFUW SASKATOON INC.</heading>
+			<heading strClassHeading="bold">A HISTORY OF CFUW SASKATOON INC.</heading>
+            <content strClassContent="bold">CFUW 100th Anniversary - 2019</content>
+        </paragraph>
+		<paragraph>
+            <heading strClassHeading="displayNone">&#160;</heading>
+            <content strClassContent="">In 2019, CFUW Saskatoon (Canadian Federation of University Women) celebrated 100 years of contributing to the Saskatoon community.</content>
+        </paragraph>
+		<paragraph>
+            <heading strClassHeading="displayNone">&#160;</heading>
             <content strClassContent="bold">1918 - 2017</content>
         </paragraph>
         <paragraph>
@@ -20,7 +28,7 @@
         </paragraph>
         <paragraph>
             <heading strClassHeading="displayNone">&#160;</heading>
-            <content strClassContent="">Very early on, contributions began to assist female students at the University of Saskatchewan.  A Scholarship Committee was created in 1919.  Informative programs were presented regularly.  In 1919, the Club voted to enter into association with the Canadian Federation of University Women and the International Federation of University women.  Scholarship contributions were made nationally</content>
+            <content strClassContent="">Very early on, contributions began to assist female students at the University of Saskatchewan.  A Scholarship Committee was created in 1919.  Informative programs were presented regularly.  In 1919, the Club voted to enter into association with the Canadian Federation of University Women and the International Federation of University women.  Scholarship contributions were made nationally.</content>
         </paragraph>
         <paragraph>
             <heading strClassHeading="displayNone">&#160;</heading>

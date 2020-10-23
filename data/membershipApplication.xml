@@ -3,7 +3,7 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEMBERSHIP APPLICATION</title>
     <links>
         <link>
-            <pdf strClassPdf="pdf" hrefPdf="../cfuwPublisher/membershipApplications/membershipApplication-2019-2020.pdf"> Membership Application</pdf>
+            <pdf strClassPdf="pdf" hrefPdf="../cfuwPublisher/membershipApplications/membershipApplication-2020-2021.pdf"> Membership Application</pdf>
         </link>
     </links>
 </page>

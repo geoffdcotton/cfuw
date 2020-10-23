@@ -3,7 +3,10 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">INTEREST GROUPS</title>
 	<groups catagory="interestGroups">
         <group>
-            <paragraph0 strClassText="">Coordinated by Vice President, Mary McKay, The Interest Groups are special as they afford opportunities of discussion, making discoveries, stimulating us and forging friendships.</paragraph0>
+            <paragraph0 strClassText="">Coordinated by Vice President, The Interest Groups are special as they afford opportunities of discussion, making discoveries, stimulating us and forging friendships.</paragraph0>
+        </group>
+        <group>
+            <paragraph0 strClassText="">Due to COVID-19 protocols, most of the Interest Groups are operating in Zoom format until further notice.</paragraph0>
         </group>
 		<group>
             <name>Adventures In Dining</name>
@@ -14,7 +17,7 @@
         <group>
             <name>Art Appreciation</name>
             <dateTime>4th Friday at 1:00 pm</dateTime>
-            <contactPerson>Mary Rowan &amp; Mary McKay Conveners</contactPerson>
+            <contactPerson>Mary Rowan, Convener</contactPerson>
             <contactPersonSecond>Attend an art show/gallery + coffee time</contactPersonSecond>
         </group>
         <group>
@@ -25,8 +28,8 @@
         </group>
         <group>
             <name>Canadian Literature Book Club</name>
-            <dateTime>4th Wednesday at 7:30 pm</dateTime>
-            <contactPerson>AGladys Somerville, Convener </contactPerson>
+            <dateTime>4th Wednesday at 7:00 pm</dateTime>
+            <contactPerson>Donna Thomson, Convenor</contactPerson>
             <contactPersonSecond>Members choose title/author for reading and discussion.</contactPersonSecond>
         </group>
         <group>
@@ -44,7 +47,7 @@
         <group>
             <name>Issues &#038; Actions</name>
             <dateTime>1st Thursday time TBA </dateTime>
-            <contactPerson>Ailsa Watkinson, Convener</contactPerson>
+            <contactPerson>Kathy Morrell, Convenor</contactPerson>
             <contactPersonSecond>Discussions as to local, national &amp; international current events.</contactPersonSecond>
         </group>
         <group>

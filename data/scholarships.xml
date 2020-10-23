@@ -2,47 +2,42 @@
 <page>
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">AWARDS</title>
 	<sections>
+        <section>
+            <paragraph0 strClass0="h2">The Power of Women Working Together</paragraph0>
+        </section>
 		<section>
 			<paragraph0 strClass0="">The Canadian Federation of University Women/Saskatoon Inc. has been offering scholarships to female students at the University of Saskatchewan since 1940. Over $300,000 has been awarded since the program's inception. Funding in support of these scholarships comes from members, families and friends of members, and bequests. Our largest annual infusion of money comes from our gigantic fall book sale.</paragraph0>
 			<paragraph1 strClass1="">We offer up to eleven Undergraduate and six Graduate Scholarships.</paragraph1>
 		</section>
         <section>
-            <paragraph0 strClass0="" class="inline">Undergraduate Scholarships of $1,750 each are offered annually to female students in any field who have maintained an average of 75% or higher. The awards will be made only to full-time students at the University of Saskatchewan. Preference will be given to students working on their first degree.</paragraph0>
-            <paragraph1  strClass1="bold inline">The application deadline for the Undergraduate scholarship is to May 31st.</paragraph1>
-            <paragraph2  strClass2="inline">Applicants will be informed in July or August. There are additional requirements specific to each of the eleven scholarships. Please see the detailed information further down this page.</paragraph2>
+            <paragraph0 strClass0="h2">Undergraduate Scholarships</paragraph0>
+        </section>
+        <section>
+            <paragraph0 strClass0="" class="inline">Undergraduate scholarships of $2,500 each are offered annually to female students in any field of study who have maintained an average of 75% or higher.  The awards are given only to full-time students at the University of Saskatchewan.  Preference is given to students working on their first degree.   The application deadline date for Undergraduate Scholarships is May 31.  Applicants are informed of awards in July or early August.  The scholarships and criteria are as follows:</paragraph0>
+        </section>
+        <section>
+            <paragraph1 strClass1="bold inline">CFUW Saskatoon Inc. Scholarships</paragraph1>
+            <paragraph2 strClass2="inline">Seven scholarships are available: two for students who have completed 1 year of university studies, five for which at least 2 years of studies are completed, and one award that stipulates preference to a mature applicant who is continuing studies after an interruption in education of several years. These renamed scholarships are established in the names and memory of Annie B. and Isabel Shaw, Mary Hallett, Jean Bayer, Harriet Kaplan, sisters Winnie and Edith Rowles, Grace Swanson, and Vivian Morton.</paragraph2>
         </section>
         <section>
             <paragraph0 strClass0="">&#160;</paragraph0>
-            <link strClassAnchor="block bold pdf" href="http://students.usask.ca/documents/awards/grad/cfuw.pdf">Graduate Scholarship Application Form</link>
+            <paragraph1 strClass1="bold inline">Marie I. Gillespie Scholarship</paragraph1>
+            <paragraph2 strClass2="inline">awarded to a mature woman who has completed at least 1 year of university studies, with preference given to a parent.</paragraph2>
         </section>
         <section>
             <paragraph0 strClass0="">&#160;</paragraph0>
-            <paragraph1 strClass1="inline">There are additional requirements specific to each of the six graduate scholarships. Please see the detailed information further down this page.</paragraph1>
+            <paragraph1 strClass1="bold inline">Carolyn Hartney Scholarship </paragraph1>
+            <paragraph2 strClass2="inline">available to a student who has completed at least 1 year of university studies and needs financial support and is not likely to receive numerous or major awards.</paragraph2>
         </section>
         <section>
-            <paragraph0 strClass0="h2">Detailed Information</paragraph0>
-	        <anchorlink1 strClassAnchor="bold block" anchorLinkName1="undergrad">Undergraduate Scholarships</anchorlink1>
-	        <anchorlink2 strClassAnchor="bold block" anchorLinkName2="grad">Graduate Scholarships</anchorlink2>
-	        <anchorlink3 strClassAnchor="bold block" anchorLinkName3="skpoly"> Saskatchewan Polytechnic Bursary</anchorlink3>
-	        <anchor1 strClassAnchor="bold block" anchorName1="undergrad">&#160;</anchor1>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Jacqueline McKenzie Newstead Scholarship </paragraph1>
+            <paragraph2 strClass2="inline">available to a student who has completed 3 or more years of university studies and demonstrates financial need.  Given similar qualifications, preference will be given to a single parent.</paragraph2>
         </section>
         <section>
-            <paragraph0 strClass0="h3">Undergraduate Scholarships</paragraph0>
-        </section>
-        <section>
-            <paragraph0 strClass0="">Additional requirements:</paragraph0>
-            <paragraph1 strClass1="bullet">The Annie B. and Isabel Shaw Scholarship is available to a student entering her second year of university studies.</paragraph1>
-            <paragraph2 strClass2="bullet">The Marie I. Gillespie Scholarship is awarded to a mature woman who has completed at least one year of university, with preference given to a parent.</paragraph2>
-            <paragraph3 strClass3="bullet">The Mary Hallett Scholarship is available to a student who has completed at least one year of university studies and needs financial support.</paragraph3>
-            <paragraph4 strClass4="bullet">The Carolyn Hartney Scholarship is available to a student who has completed at least one year of university studies, needs financial support, but is not likely to receive numerous or major awards.
-            </paragraph4>
-            <paragraph5 strClass5="bullet">The Jean Bayer Scholarship is available to a student who has completed at least two years of university studies.</paragraph5>
-            <paragraph6 strClass6="bullet">The Harriet Kaplan Scholarship is available to a student who has completed at least two years of university studies.</paragraph6>
-            <paragraph7 strClass7="bullet">The Rowles Scholarship is available to a student who has completed at least two years of university studies and demonstrates financial need.</paragraph7>
-            <paragraph8 strClass8="bullet">The Grace Swanson Scholarship is available to a student who has completed at least two years of university studies and demonstrates financial need.</paragraph8>
-            <paragraph9 strClass9="bullet">The Vivian Morton Scholarship is available to a student who has completed at least two years of university studies and demonstrates financial need. Preference will be given to a mature candidate who is continuing her studies after an interruption (in education) of several years.</paragraph9>
-            <paragraph10 strClass10="bullet">The Jacqueline McKenzie Newstead Scholarship is available to a student who has completed three or more years of university and demonstrates financial need. Given similar qualifications, preference will be given to a single parent.</paragraph10>
-            <paragraph11 strClass11="bullet">The Florence E. Bennee Fine Arts Scholarship is new in 2012.  It is open to a student in Fine Arts studies (Drama, Music or Art &#038; Art History).  It is available to both male and female applicants, at the request of the donor.</paragraph11>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Florence E. Bennee Fine Arts Scholarship </paragraph1>
+            <paragraph2 strClass2="inline"> open to male and female students, by request of the donor, enrolled in Fine Arts studies (Drama, Music, Art, or Art History).  </paragraph2>
         </section>
         <section>
 	        <anchor2 strClassAnchor="bold block" anchorName2="grad">&#160;</anchor2>
@@ -50,18 +45,61 @@
             <link strClassAnchor="bold block" href="https://students.usask.ca/money/awards/undergraduate-awards.php?award=EX0029C#myScholarships">Undergraduate Scholarship Application (on University of Saskatchewan web site)</link>
         </section>
         <section>
-            <paragraph0 strClass0="h3">Graduate Scholarships</paragraph0>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1  strClass1="bold inline">The application deadline for the Undergraduate scholarship is to May 31st.</paragraph1>
+            <paragraph2  strClass2="inline">Applicants will be informed in July or August.</paragraph2>
         </section>
         <section>
-            <paragraph0 strClass0="">Additional requirements:</paragraph0>
+            <paragraph0 strClass0="">Contact Information for queries:</paragraph0>
         </section>
         <section>
-            <paragraph0 strClass0="">These awards are directed towards women completing their degrees. They will be awarded to female graduate students based on academic excellence and demonstrated financial need. The students must have completed at least one year of course work and have an approved thesis or project proposal. </paragraph0>
+            <paragraph0 strClass0="increaseIndention">Scholarship Chair, CFUW Saskatoon Inc.</paragraph0>
+            <paragraph1 strClass1="increaseIndention">Box 7405, Saskatoon,</paragraph1>
+            <paragraph5 strClass5="increaseIndention marginBottomIncrease">Saskatoon, SK  S7K 4J3</paragraph5>
         </section>
         <section>
-            <paragraph0 strClass0="bullet">Dr. Jean Murray Memorial Scholarship; Dorothea Friebel Scholarship; Bennee Scholarship; CFUW Saskatoon Inc. Scholarship - These are intended to be used to cover expenses associated with the thesis completion.</paragraph0>
-            <paragraph1 strClass1="bullet">The Jacqueline McKenzie Newstead Scholarship may be used for any expenses incurred in completing the degree. At the request of the donor, given otherwise similar qualifications, preference may be given to a single mother.</paragraph1>
-            <paragraph2 strClass2="bullet">The Newstead Doctoral Scholarship is awarded to a female Ph.D. student who has completed all the required courses, including the comprehensive exams for the degree, and be well advanced in the writing of the thesis. Given similar qualifications, preference is given to a student who demonstrates financial need, or whose research is of potential benefit to women in society.</paragraph2>
+            <paragraph1 strClass1="marginBottomZero">Email: cfuwstudentscholarshipsktn@gmail.com</paragraph1>
+        </section>
+        <section>
+            <paragraph0 strClass0="h2">Graduate Scholarships</paragraph0>
+        </section>
+        <section>
+            <paragraph0 strClass0="">Graduate scholarships of $2,500 are offered annually as well as one doctoral scholarship of $5,000.  These awards are directed towards women completing their degrees. They will be awarded to female graduate students who are not recipients of any other substantial scholarship(s). The students must have completed at least one year of course work and have an approved thesis or project proposal. </paragraph0>
+            <paragraph1 strClass1="">There are additional requirements specific to each of the six graduate scholarships below:</paragraph1>
+
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Dr. Jean Murray Memorial Scholarship</paragraph1>
+            <paragraph2 strClass2="inline"> - $2,500 </paragraph2>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Dorothea Friebel Scholarship</paragraph1>
+            <paragraph2 strClass2="inline"> - $2,500 </paragraph2>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Bennee Scholarship</paragraph1>
+            <paragraph2 strClass2="inline"> - $2,500 </paragraph2>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">CFUW Saskatoon Inc. Scholarship</paragraph1>
+            <paragraph2 strClass2="inline"> - $2,500 </paragraph2>
+            <paragraph3 strClass3="">These awards are intended to be used to cover expenses associated with the thesis completion. This may include the purchase of materials and preparation of the text. </paragraph3>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Jacqueline McKenzie Newstead Scholarship</paragraph1>
+            <paragraph2 strClass2="inline"> - $2,500 </paragraph2>
+            <paragraph3 strClass3="">This award may be used for any expenses incurred in completing the degree. At the request of the donor, given otherwise similar qualifications, preference may be given to a single mother.</paragraph3>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <paragraph1 strClass1="bold inline">Newstead Doctoral Scholarship </paragraph1>
+            <paragraph2 strClass2="inline"> - $5,000 </paragraph2>
+            <paragraph3 strClass3="">The Newstead Doctoral Scholarship is awarded to a female Ph.D. student who has completed all the required courses, including the comprehensive exams for the degree, and is well-advanced in the writing of the thesis. Given similar qualifications, preference is given to a student who demonstrates financial need, or whose research is of potential benefit to women in society.</paragraph3>
         </section>
         <section>
             <paragraph0 strClass0="h3">Application Procedure:</paragraph0>
@@ -72,10 +110,14 @@
             <paragraph1 strClass1="bulletNumbered">A list of current University Scholarships and distinctions won, including amount, tenure, and source;</paragraph1>
             <paragraph2 strClass2="bulletNumbered">The source and amount of monetary support, including research grants, stipends, teaching assistantships, lab technician wages, and also other sources of income;</paragraph2>
             <paragraph3 strClass3="bulletNumbered">A list of publications, conferences and poster presentations, and related work and/or volunteer experiences;</paragraph3>
-            <paragraph4 strClass4="bulletNumbered">A letter of recommendation from the research supervisor outlining the student's personal qualities and past achievements and potential. It should state the student's current progress in the program and estimated completion date, and the financial support that is being provided to the student. This letter should be sent directly from the department to the College of Graduate Studies and Research.</paragraph4>
+            <paragraph4 strClass4="bulletNumbered">A letter of recommendation from the research supervisor outlining the student's personal qualities and past achievements and potential. It should state the student's current progress in the program, the estimated completion date, and the financial support that is being provided to the student. This letter should be sent directly from the department to the College of Graduate Studies and Research.</paragraph4>
         </section>
         <section>
             <paragraph0 strClass0="">In accordance with Canada Revenue Agency regulations, Social Insurance Numbers will be required from all scholarship winners and their applications will be retained by CFUW Saskatoon Inc. for six years.</paragraph0>
+        </section>
+        <section>
+            <paragraph0 strClass0="">&#160;</paragraph0>
+            <link strClassAnchor="block bold pdf" href="http://students.usask.ca/documents/awards/grad/cfuw.pdf">Graduate Scholarship Application Form</link>
         </section>
         <section>
             <paragraph0 strClass0="" id="admissions_how_to_apply">Website: Graduate Scholarship Application Form (on University of Saskatchewan web site)</paragraph0>
@@ -101,17 +143,17 @@
             <paragraph1 strClass1="inline">February 01</paragraph1>
         </section>
         <section>
-        	<paragraph0 strClass0="h3">Saskatchewan Polytechnic Bursary</paragraph0>
-        	<paragraph1 strClass1="">CFUW-Saskatoon has established a new award, the Saskatchewan Polytechnic Bursary.  Two bursaries of $1,000 each will be awarded the first time this fall (September 2018) to mark the 100th anniversary of our club.  The SK Polytechnic bursaries  are intended to encourage and recognize Saskatchewan female students in programs underrepresented by women.</paragraph1>
-   			<paragraph2 strClass2="">Application and Selection will be handled by the Saskatchewan Polytechnic Donor and Alumni Relations Office.  A link to the application form will be provided to CFUW-Saskatoon by this office and will also be posted on the CFUW-Saskatoon website. The application will be open in the spring, for awards in the fall.</paragraph2>
-        	<paragraph3 strClass3="">To be eligible to apply for the CFUW-Saskatoon Polytechnic Bursary, a student must</paragraph3>
-        	<paragraph4 strClass4="bullet">Be a female student</paragraph4>
-        	<paragraph5 strClass5="bullet">Be enrolled full-time at Saskatchewan Polytechnic Saskatoon campus in year one of a diploma program that has less than 30% female enrolment</paragraph5>
+        	<paragraph0 strClass0="h2">Saskatchewan Polytechnic Bursary</paragraph0>
+        	<paragraph1 strClass1="">This award was established in 2017-18 to mark the 100th Anniversary of CFUW Saskatoon Inc.   Two $1,000 bursaries were awarded in September, 2018.  The Saskatchewan Polytechnic bursaries are intended to encourage and recognize Saskatchewan female students enrolled in programs under-represented by women.</paragraph1>
+   			<paragraph2 strClass2="">Two bursaries per year are awarded.   In 2020, the value of the bursaries increased to $1,500.  These bursaries are separate from the U of S scholarships.  Applications and selection of recipients are handled by the Saskatchewan Polytechnic Donor and Alumni Relations Office.</paragraph2>
+        	<paragraph3 strClass3="">Applications are open in the spring for awards in the fall.  Applicants must be enrolled full-time on Campus, either in Year One of a diploma program that has less than 30% female enrolment or having completed one year of a program and are enrolled in Year Two of the program.</paragraph3>
             <paragraph6 strClass6="">&#160;</paragraph6>
-        	<paragraph7 strClass7="">To be eligible to receive the CFUW-Saskatoon Bursary, a student must</paragraph7>
-        	<paragraph8 strClass8="bullet">have successfully completed year one of the program and be</paragraph8>
-        	<paragraph9 strClass9="bullet">enrolled in year two of the program</paragraph9>
-            <paragraph10 strClass10="">&#160;</paragraph10>
+        </section>
+        <section>
+        	<paragraph0 strClass0="h2">Royal West Campus Bursary</paragraph0>
+        	<paragraph1 strClass1="">This annual award was established in 2004.  In appreciation for the use of an available book-sorting storage space in the Saskatoon Public School Division, CFUW Saskatoon Inc. established a bursary valued at $750. The bursary was intended to support students who had not completed their high-school education for various reasons and were upgrading in order to pursue their academic goals, rising above adversity to achieve their education.   In 2020, the value increased to $1,000.</paragraph1>
+   			<paragraph2 strClass2="">The bursary is eligible for Royal West Campus students who are graduating, having taken a minimum of three classes with the Royal West Campus program or having taken a minimum of three upgrading courses in the current year.  The application deadline is May 31.   Applicants must have applied and been accepted in a post-secondary program for the current year.  Royal West Campus forwards the applications to CFUW Saskatoon for the selection process. The successful applicant is presented the award at the Royal West Campus June Graduation Farewell.</paragraph2>
+            <paragraph6 strClass6="">&#160;</paragraph6>
         </section>
 	</sections>
 </page>

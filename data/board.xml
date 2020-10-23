@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <page>
-    <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn"></title>
+    <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">CFUW Saskatoon Inc. Board 2020-21</title>
     <members catagory="board">
         <member>
-            <position>President</position>
-            <name>Marilyn Loken</name>
+            <position>Co-Presidents</position>
+            <name>Gladys Somerville / Ferne Wagner</name>
         </member>
         <member>
             <position>Vice President</position>
-            <name>Mary McKay</name>
+            <name>Shirley Haines</name>
+        </member>
+        <member>
+            <position>Past President</position>
+            <name>Marilyn Loken</name>
         </member>
         <member>
             <position>Treasurer</position>
@@ -16,11 +20,11 @@
         </member>
         <member>
             <position>Board Secretary</position>
-            <name>Judy White</name>
+            <name>Angie Schmidt</name>
         </member>
         <member>
             <position>General Secretary</position>
-            <name>Jennifer Lawrence</name>
+            <name>Marlene Chatterson</name>
         </member>
         <member>
             <position>Membership</position>
@@ -36,7 +40,7 @@
         </member>
         <member>
             <position>Publicity</position>
-            <name>Chair: Sarah Bocking</name>
+            <name>Co-Chairs: Freda Toffolo / Lynne Nastiuk</name>
         </member>
         <member>
             <position>Archives</position>
@@ -48,7 +52,7 @@
         </member>
         <member>
             <position>Scholarship</position>
-            <name>Chair: Ferne Wagner</name>
+            <name>Chair: Lavina Carter</name>
         </member>
         <member>
             <position>Finance Committee</position>
@@ -56,7 +60,7 @@
         </member>
         <member>
             <position>Council of Women</position>
-            <name>Chair: Jean Thompson</name>
+            <name>Chair: Marlene Chatterson</name>
         </member>
     </members>
 </page>
