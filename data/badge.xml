@@ -4,19 +4,19 @@
     <sections catagory="anniversary">
         <section>
             <heading strClassHeading="bold">CFUW 100th Anniversary - 2019</heading>
-            <textNode strClassText="visible">&#160;</textNode>            
-            <paragraph0>In the coming year, CFUW Saskatoon (Canadian Federation of University Women) will be celebrating 100 years of contributing to the Saskatoon community.</paragraph0>
-            <paragraph1 strParagraphDefault="visible" class="">On May 8, 2918, fifteen women met at what is now Nutana Collegiate. The result of this discussion was the formation of the University Women's Club of Saskatoon.  This program was to be a study of advancements made in the arts, sciences, and economics as well as a study of educational, social and community issues.</paragraph1>
+            <textNode strClassText="visible">&#160;</textNode>
+            <paragraph0>In 2019, CFUW Saskatoon (Canadian Federation of University Women) celebrated 100 years of contributing to the Saskatoon community.</paragraph0>
+            <paragraph1 strParagraphDefault="visible" class="">On May 8, 1918, fifteen women met at what is now Nutana Collegiate. The result of this discussion was the formation of the University Women's Club of Saskatoon.  This program was to be a study of advancements made in the arts, sciences, and economics as well as a study of educational, social and community issues.</paragraph1>
             <paragraph2 class="">On October 20, 1919, the group worked to enter into association and to become charter members of the National Canadian Federation of University Women.</paragraph2>
-            <paragraph3 strClassUnderSubheading="">All women who support the objectives of CFUW are urged to join this very successful club.</paragraph3>            
-            <paragraph4 strClassLineItem4="">The group began very early to fund raise to assist women to attend and complete university degrees. CFUW Saskatoon holds a book sale yearly and uses the proceeds for scholarships for the University of Saskatchewan, bursaries for Saskatchewan Polytechnic and other community educational events and projects.</paragraph4>
+            <paragraph3 strClassUnderSubheading="">All women who support the objectives of CFUW are urged to join this very successful club.</paragraph3>
+            <paragraph4 strClassLineItem4="">The group began very early to fundraise to assist women to attend and complete university degrees. CFUW Saskatoon holds a book sale yearly and uses the proceeds for scholarships for the University of Saskatchewan, bursaries for Saskatchewan Polytechnic and ROyal West Campus, and for other community educational events and projects.</paragraph4>
             <paragraph5 strClassLineItem5="">The group has several interest and study groups and has a very active membership.</paragraph5>
-            <paragraph6 strClassLineItem6="">CFUW Saskatoon is very proud of 100 years of being active in the Saskatoon community and will be celebrating this success through the coming year.</paragraph6>            
+            <paragraph6 strClassLineItem6="">CFUW Saskatoon is very proud of 100 years of being active in the Saskatoon community and will be celebrating this success through the coming years.</paragraph6>            
             <paragraph7 strClassLastParagraph="lineItem badgeHundredthAnniversaryParagraphLast">&#160;</paragraph7>
             <paraEvents><paraEvent>Hello event one</paraEvent></paraEvents>
             <subHeading1 strClassTextSubHeading1="hide">Distribution of Awards</subHeading1>
-            <subHeading2 strClassUnderSubheading2="hide">For more information and the application form(s)</subHeading2>            
-            <subHeading3 strClassTextSubHeading3="hide">For more information and the application form(s)</subHeading3>            
+            <subHeading2 strClassUnderSubheading2="hide">For more information and the application form(s)</subHeading2>
+            <subHeading3 strClassTextSubHeading3="hide">For more information and the application form(s)</subHeading3>
             <link0 strClassLink="hide" strHref0="http://www.cfuw-saskatoon.org">100th Anniversary Notable Woman Award (2019) Nomination Application (.docx)</link0>
         </section>
     </sections>

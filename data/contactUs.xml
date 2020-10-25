@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <page>
-    <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">CONTACT US</title>  
+    <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">CONTACT US</title>
 	<informations>
         <information>
-            <link0 strClass0="socialFacebook socialBlock inlineBlock" href0="https://www.facebook.com/cfuwsaskatoon" strClassSocialLink="facebook">&#160;</link0>         
-            <link1 strClass1="socialInstagram socialBlock inlineBlock" href1="https://www.instagram.com/p/7JHu1DTSEk/" strClassSocialLink="instagram">&#160;</link1>         
+            <link0 strClass0="socialFacebook socialBlock inlineBlock" href0="https://www.facebook.com/cfuwsaskatoon" strClassSocialLink="facebook">&#160;</link0>
+            <link1 strClass1="socialInstagram socialBlock inlineBlock" href1="https://www.instagram.com/p/7JHu1DTSEk/" strClassSocialLink="instagram">&#160;</link1>
             <link2 strClass2="socialTwitter socialBlock inlineBlock" href2="https://twitter.com/cfuwsaskatoon" strClassSocialLink="twitter">&#160;</link2>
             <headerTextRightSide strClass="">&#160;</headerTextRightSide>
             <namePresident>&#160;</namePresident>
             <positionPresident>&#160;</positionPresident>
             <nameVicePresident>&#160;</nameVicePresident>
-            <positionVicePresident>&#160;</positionVicePresident>            
+            <positionVicePresident>&#160;</positionVicePresident>
             <headerEmail>Email:</headerEmail>
             <email>info@cfuw-saskatoon.org</email>
+            <headerEmail1>Scholarship Correspondence Email:</headerEmail1>
+            <email1>cfuwstudentscholarshipsktn@gmail.com</email1>
             <address>CFUW Saskatoon Inc., P.O. Box 7405, Saskatoon, SK. S7K 4J3</address>
             <moreInfo>General Meetings are held the first Monday of the Month at 7:30 p.m. at the W.A. Edwards Family Centre, 333 Fourth Avenue North, Saskatoon. Visitors are welcome. Annual membership fees are $95.00.  Student membership fees available: $47.50.</moreInfo>
         </information>
     </informations>
 </page>
-

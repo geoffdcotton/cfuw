@@ -3,9 +3,25 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">MEETINGS / EVENTS</title>
     <meetings>
         <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">September Virtual Membership Welcome</titleNode>
+            <dateNode strClassDate="date increaseIndention">Sunday, September 13, 2020</dateNode>
+            <timeNode strClassTime="increaseIndention">2:00 - 4:00 PM</timeNode>
+            <info strClassInfo="bold increaseIndention">Speaker: Donna Jean Gerrier:  Honour the Masterpiece that you have been Created to Fulfill and Be</info>
+            <location strClassLocation="increaseIndention">Zoom "Open House"</location>
+            <otherInfo strClassOtherInfo="increaseIndention">Donna Jean's presentation is based on her book, Eggs on the Wall... for the love of Family. "Donna Jean Gerrier shares her heartwarming story about choice and change.  She made a life-altering decision when she relocated from Toronto to care for her elderly parents in the small prairie town where she grew up.  The love of family surmounted her fulfilling career as a speech language pathologist as well as her study and performance of classical opera," as quoted on the book's back cover.</otherInfo>
+        </meeting>
+        <meeting>
+            <titleNode strClassTitle="subTitle marginBottomZero">Awards Evening</titleNode>
+            <dateNode strClassDate="date increaseIndention">Monday, October 5, 2020</dateNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
+            <!-- <info strClassInfo="bold increaseIndention">Speaker: Donna Jean Gerrier:  Honour the Masterpiece that you have been Created to Fulfill and Be</info> -->
+            <location strClassLocation="increaseIndention">Zoom Meeting</location>
+            <otherInfo strClassOtherInfo="increaseIndention">Due to Covid-19 restrictions for large gatherings, the Awards Evening which traditionally is held at W.A. Edwards Family Centre is a Zoom celebration of the 2020 scholarship and bursary recipients.  Members have the opportunity to meet the recipients and learn of their studies, goals, and aspirations. </otherInfo>
+        </meeting>
+        <meeting>
             <titleNode strClassTitle="subTitle marginBottomZero">General Meeting</titleNode>
             <dateNode strClassDate="date increaseIndention">Monday, November 2, 2020</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 p.m.</timeNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
             <info strClassInfo="bold increaseIndention">Speaker: Lori Steward</info>
             <location strClassLocation="increaseIndention">Zoom Meeting</location>
             <otherInfo strClassOtherInfo="increaseIndention">Lori is passionate about helping newcomers to Saskatoon achieve full and successful lives.  She began her journey at Global Gathering Place (GGP) in 2006 as a volunteer in English-as-a-Second-Language (ESL) classes.  Since then, she has held a variety of positions and is now the Refugee and Immigrant Health and Care Coordination Manager.  Her team provides one-on-one case coordination and life skills support to the most vulnerable clients.</otherInfo>
@@ -13,7 +29,7 @@
         <meeting>
             <titleNode strClassTitle="subTitle marginBottomZero">Christmas Social</titleNode>
             <dateNode strClassDate="date increaseIndention">Monday, December 7, 2020</dateNode>
-            <timeNode strClassTime="increaseIndention">7:30 p.m.</timeNode>
+            <timeNode strClassTime="increaseIndention">7:30 PM</timeNode>
             <!-- <info strClassInfo="bold increaseIndention">Tickets $40.00  phone Ruth 306-374-8572</info> -->
             <location strClassLocation="increaseIndention">Zoom Meeting</location>
             <otherInfo strClassOtherInfo="increaseIndention">This is an opportunity for members to star in the Christmas Social by sharing their talents, memories, traditions, stories, or poems in short presentations.  Share a memory or tradition that means Christmas to you.  In this "New Normal," we want to share the joy!  Bring those memories to the surface and volunteer to make this a joyful evening.</otherInfo>
@@ -21,7 +37,7 @@
         <meeting>
             <titleNode strClassTitle="subTitle marginBottomZero">Virtual Author's Presentation</titleNode>
             <dateNode strClassDate="date">Saturday, January 9, 2021</dateNode>
-            <timeNode strClassTime="increaseIndention">1:00 pm</timeNode>
+            <timeNode strClassTime="increaseIndention">1:00 PM</timeNode>
             <info strClassInfo="bold increaseIndention">Speaker: T.B.A.</info>
             <location strClassLocation="increaseIndention">Zoom Meeting</location>
             <!-- <otherInfo strClassOtherInfo="increaseIndention">Kathy is a writer and historian. Her latest venture is the writing of a historical walking tour of Woodlawn Cemetery. She has ghost written three autobiographies, produced Nellie McClung: A One Person Play, a joint effort with actor Wendy Smith Sumner and director Robert du Laux. She has also written three scripts entitled Haunts of Yorkton, historical walking tours that included storytellers and actors. Kathy continues to work in the interesting but challenging work of the playwright. Her writing is published in Saskatchewan History and Prairies North.</otherInfo> -->

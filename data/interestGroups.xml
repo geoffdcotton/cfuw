@@ -3,70 +3,70 @@
     <title strClassViewPageTitle="span2 cfuwWhite text-right containerPageTitle rotateGoLeft transitionIn">INTEREST GROUPS</title>
 	<groups catagory="interestGroups">
         <group>
-            <paragraph0 strClassText="">Coordinated by Vice President, The Interest Groups are special as they afford opportunities of discussion, making discoveries, stimulating us and forging friendships.</paragraph0>
+            <paragraph0 strClassText="">Coordinated by the Vice President, the Interest Groups are special as they afford opportunities of discussion, making discoveries, stimulating us, and forging friendships.</paragraph0>
         </group>
         <group>
             <paragraph0 strClassText="">Due to COVID-19 protocols, most of the Interest Groups are operating in Zoom format until further notice.</paragraph0>
         </group>
 		<group>
             <name>Adventures In Dining</name>
-            <dateTime>2nd Tuesday at 6:00 pm</dateTime>
-            <contactPerson>Angela Schmidt, Convener</contactPerson>
+            <dateTime>2nd Tuesday at 6:00 PM</dateTime>
+            <contactPerson>Angela Schmidt, Convenor</contactPerson>
             <contactPersonSecond>Restaurant meal or theme meal at a member's home.</contactPersonSecond>
         </group>
         <group>
             <name>Art Appreciation</name>
-            <dateTime>4th Friday at 1:00 pm</dateTime>
-            <contactPerson>Mary Rowan, Convener</contactPerson>
+            <dateTime>4th Friday at 1:00 PM</dateTime>
+            <contactPerson>Mary McKay, Convenor</contactPerson>
             <contactPersonSecond>Attend an art show/gallery + coffee time</contactPersonSecond>
         </group>
         <group>
             <name>Biography Book Club</name>
-            <dateTime>Last Monday at 7:30 pm</dateTime>
+            <dateTime>Last Monday at 7:30 PM</dateTime>
             <contactPerson>Ann van der Wal 306.270.0814</contactPerson>
             <contactPersonSecond>Members present a biography for discussion.</contactPersonSecond>
         </group>
         <group>
             <name>Canadian Literature Book Club</name>
-            <dateTime>4th Wednesday at 7:00 pm</dateTime>
+            <dateTime>4th Wednesday at 7:00 PM</dateTime>
             <contactPerson>Donna Thomson, Convenor</contactPerson>
-            <contactPersonSecond>Members choose title/author for reading and discussion.</contactPersonSecond>
+            <contactPersonSecond>Members choose the title/author for reading and discussion.</contactPersonSecond>
         </group>
         <group>
             <name>Mystery Book Club</name>
-            <dateTime>3rd Tuesday at 2:00 pm</dateTime>
-            <contactPerson>Terri Chappell &amp; Sue Lingard, Conveners</contactPerson>
-            <contactPersonSecond>Members together choose title/author to read and discuss.</contactPersonSecond>
+            <dateTime>3rd Tuesday at 2:00 PM</dateTime>
+            <contactPerson>Terri Chappell &amp; Sue Lingard, Convenors</contactPerson>
+            <contactPersonSecond>Members together choose the title/author to read and discuss.</contactPersonSecond>
         </group>
         <group>
             <name>Friendly Visits</name>
-            <dateTime>2nd Friday at 1 pm</dateTime>
-            <contactPerson>Alverta Polson &amp; Melinda Waltz, Conveners</contactPerson>
+            <dateTime>2nd Friday at 1:00 PM</dateTime>
+            <contactPerson>Alverta Polson &amp; Melinda Waltz, Convenors</contactPerson>
             <contactPersonSecond>Members meet for lunch 1 pm &amp;/or at 2 pm for coffee/dessert at various restaurants to visit.</contactPersonSecond>
         </group>
         <group>
             <name>Issues &#038; Actions</name>
-            <dateTime>1st Thursday time TBA </dateTime>
+            <dateTime>1st Thursday; time TBA </dateTime>
             <contactPerson>Kathy Morrell, Convenor</contactPerson>
             <contactPersonSecond>Discussions as to local, national &amp; international current events.</contactPersonSecond>
         </group>
         <group>
             <name>Piano Jazz at the Bassment</name>
-            <dateTime>3rd Friday at 4:30</dateTime>
-            <contactPerson>Margaret Hendry, Convener</contactPerson>
+            <dateTime>3rd Friday at 4:30 PM</dateTime>
+            <contactPerson>Margaret Hendry, Convenor</contactPerson>
             <contactPersonSecond>Time to enjoy music with friends.</contactPersonSecond>
         </group>
         <group>
             <name>Travel Club</name>
-            <dateTime>1st Thursday - time TBA </dateTime>
-            <contactPerson>Angela Schmidt &amp; Gerlinde Sarkar, Conveners</contactPerson>
+            <dateTime>1st Thursday; time TBA </dateTime>
+            <contactPerson>Angela Schmidt &amp; Gerlinde Sarkar, Convenors</contactPerson>
             <contactPersonSecond>Sharing travel adventures.</contactPersonSecond>
         </group>
         <group>
             <name>Theatre </name>
             <dateTime>As events come up</dateTime>
-            <contactPerson>Angela Schmidt, Convener</contactPerson>
-            <contactPersonSecond>Opportunity to attend with an interested member.</contactPersonSecond>
+            <contactPerson>Angela Schmidt, Convenor</contactPerson>
+            <contactPersonSecond>Opportunity to attend with interested members.</contactPersonSecond>
         </group>
 	</groups>
 </page>
